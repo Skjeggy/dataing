@@ -1,0 +1,1 @@
+Kapittel 1.5.2 i boka. Sett av litt tid til å lese og forstå. 

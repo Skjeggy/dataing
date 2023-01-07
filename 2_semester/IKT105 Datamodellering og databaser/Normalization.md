@@ -8,4 +8,4 @@ Les mer: https://www.guru99.com/database-normalization.html
 - [[2NF (Second Normal Form)]]
 - [[3NF (Third Normal Form)]] 
 
-The Theory of Data Normalization in MySQL server is still being developed further. For example, there are discussions even on 6th Normal Form. **However, in most practical applications, normalization achieves its best in 3rd Normal Form**. The evolution of Normalization in SQL theories is illustrated below-
+The Theory of Data Normalization in MySQL server is still being developed further. For example, there are discussions even on 6th Normal Form. **However, in most practical applications, normalization achieves its best in 3rd Normal Form**. 

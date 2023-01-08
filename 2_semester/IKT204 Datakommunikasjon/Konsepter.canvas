@@ -1,11 +1,20 @@
 {
 	"nodes":[
-		{"id":"53b0f2d77f5fd64b","x":473,"y":-454,"width":297,"height":115,"type":"text","text":"## The five layers of the internet protocol stack"},
-		{"id":"643a003c04c949f7","x":884,"y":-248,"width":109,"height":60,"type":"text","text":"## [[Fysisk]]"},
-		{"id":"0f47dec8eb56b30d","x":-145,"y":-36,"width":280,"height":78,"type":"text","text":"# Kjernekonsepter"}
+		{"id":"0f47dec8eb56b30d","x":-145,"y":-36,"width":297,"height":77,"type":"text","text":"# Kjernekonsepter"},
+		{"id":"c6511f084072ac30","x":779,"y":-1418,"width":210,"height":63,"color":"2","type":"text","text":"## [[Transportlaget]]"},
+		{"id":"bddc7d883dba658c","x":454,"y":-1386,"width":238,"height":57,"color":"4","type":"text","text":"## [[Applikasjonslaget]]"},
+		{"id":"daa68a6c92a2e8df","x":422,"y":-1443,"width":932,"height":660,"color":"4","type":"group","label":"Protocols"},
+		{"id":"643a003c04c949f7","x":1017,"y":-918,"width":109,"height":60,"color":"5","type":"text","text":"## [[Fysisk]]"},
+		{"id":"c0c24052cdba7357","x":1126,"y":-1154,"width":135,"height":58,"color":"6","type":"text","text":"## [[Ethernet]]"},
+		{"id":"53b0f2d77f5fd64b","x":606,"y":-1124,"width":337,"height":130,"color":"#c93131","type":"text","text":"## The five layers of the internet protocol stack - [[TCP-IP modellen]]"},
+		{"id":"e3366b0f816695a2","x":1089,"y":-1359,"width":205,"height":54,"color":"3","type":"text","text":"## [[Nettverkslaget]]"}
 	],
 	"edges":[
-		{"id":"df1e71bcf7af6785","fromNode":"0f47dec8eb56b30d","fromSide":"right","toNode":"53b0f2d77f5fd64b","toSide":"bottom"},
-		{"id":"63751c8d883c7265","fromNode":"53b0f2d77f5fd64b","fromSide":"right","toNode":"643a003c04c949f7","toSide":"top"}
+		{"id":"df1e71bcf7af6785","fromNode":"0f47dec8eb56b30d","fromSide":"right","toNode":"53b0f2d77f5fd64b","toSide":"bottom","color":"#312eff"},
+		{"id":"63751c8d883c7265","fromNode":"53b0f2d77f5fd64b","fromSide":"right","toNode":"643a003c04c949f7","toSide":"top"},
+		{"id":"646f4670f29f50be","fromNode":"53b0f2d77f5fd64b","fromSide":"right","toNode":"c0c24052cdba7357","toSide":"left"},
+		{"id":"44831409f038a7d8","fromNode":"53b0f2d77f5fd64b","fromSide":"right","toNode":"e3366b0f816695a2","toSide":"left"},
+		{"id":"4af18f6d490edb9d","fromNode":"53b0f2d77f5fd64b","fromSide":"top","toNode":"c6511f084072ac30","toSide":"bottom"},
+		{"id":"db76d90efe0b299f","fromNode":"53b0f2d77f5fd64b","fromSide":"top","toNode":"bddc7d883dba658c","toSide":"bottom"}
 	]
 }

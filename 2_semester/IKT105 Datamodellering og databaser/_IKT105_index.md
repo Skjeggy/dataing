@@ -5,6 +5,10 @@ Vurderingsform:
 - Mappe teller 30%. 
 - Gradert karakter.
 
+Den første forelesningen blir tirsdag 10/1 kl12:15-14:00 i auditoriet C2 042 og fortsetter på torsdag 12/1 kl 12:15 i C2 036(og det er forelesningstidene frem til påske). 
+
+Lab er fredager 12:15-16:00 i F 203, 204 og 225.
+
 # Oversikter
 [[Begreper]]
 

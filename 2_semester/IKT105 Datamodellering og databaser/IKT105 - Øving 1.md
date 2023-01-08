@@ -11,6 +11,10 @@ En database er en samling med data som er satt sammen på en logisk måte. Det b
 
 [[Database]]
 
+[[Database]]
+
+[[Modellator]]
+
 ### 2. Forklar hva DBMS og DD står for
 
 #### DMBS - Database Mangagement System 

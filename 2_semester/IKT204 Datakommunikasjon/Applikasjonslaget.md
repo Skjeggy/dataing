@@ -1,0 +1,1 @@
+Dette er laget brukeren/hosten befinner seg i. Data fra applikasjonen blir sendt som message.

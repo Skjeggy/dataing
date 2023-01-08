@@ -1,0 +1,1 @@
+Dette laget befinner IP protokollen seg i. IP blir mye brukt når pakker oppgir adressen den blir sendt fra og adressen den skal til. Pakker sendt fra dette laget blir kalt for datagram.

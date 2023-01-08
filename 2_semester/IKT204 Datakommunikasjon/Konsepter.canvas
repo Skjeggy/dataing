@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0f47dec8eb56b30d","x":-145,"y":-36,"width":280,"height":78,"type":"text","text":"# Kjernekonsepter"},
+		{"id":"832aca9ed1560553","x":135,"y":-833,"width":400,"height":156,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT204 Datakommunikasjon/Applikasjonslaget.md"},
+		{"id":"53b0f2d77f5fd64b","x":473,"y":-454,"width":297,"height":115,"type":"text","text":"## The five layers of the internet protocol stack"},
+		{"id":"841a92bc6bba088c","x":809,"y":-1033,"width":400,"height":400,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT204 Datakommunikasjon/Transportlaget.md"},
+		{"id":"70d4c60de80e33a6","x":980,"y":-499,"width":400,"height":257,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT204 Datakommunikasjon/Nettverkslaget.md"}
+	],
+	"edges":[
+		{"id":"df1e71bcf7af6785","fromNode":"0f47dec8eb56b30d","fromSide":"right","toNode":"53b0f2d77f5fd64b","toSide":"bottom"},
+		{"id":"43d2c448f7a7215c","fromNode":"53b0f2d77f5fd64b","fromSide":"top","toNode":"832aca9ed1560553","toSide":"bottom"},
+		{"id":"56d0938f8023b5d8","fromNode":"53b0f2d77f5fd64b","fromSide":"top","toNode":"841a92bc6bba088c","toSide":"left"},
+		{"id":"677cee96883a2530","fromNode":"53b0f2d77f5fd64b","fromSide":"right","toNode":"70d4c60de80e33a6","toSide":"left"}
+	]
+}

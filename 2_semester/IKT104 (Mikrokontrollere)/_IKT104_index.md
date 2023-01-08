@@ -1,3 +1,6 @@
+---
+alias: Mikrokontrollere
+---
 # [Mikrokontrollere](https://www.uia.no/studieplaner/topic/IKT104-G?year=2022) 
 
 Vurdering:  mappevurdering + prosjekt. Ingen eksamen.

@@ -1,3 +1,6 @@
+---
+alias: Datakommunikasjon, oversikt
+---
 # [Datakommunikasjon](https://www.uia.no/studieplaner/topic/IKT204-G?year=2022) 
 
 Vurderingsform: 

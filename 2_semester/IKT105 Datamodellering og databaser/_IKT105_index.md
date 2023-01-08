@@ -1,5 +1,5 @@
 ---
-alias: Datamodellering og databaser, oversikt
+alias: Datamodellering og databaser
 ---
 # [Datamodellering og databaser](https://www.uia.no/studieplaner/topic/IKT105-G?year=2022) 
 

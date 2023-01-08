@@ -1,9 +1,13 @@
+---
+alias: Cybersikkerhet
+---
 # [Cybersikkerhet](https://www.uia.no/studieplaner/topic/IKT207-G) 
 
 Tas som ekstrafag.
 
 Vurderingsform: chill, mappevurdering
-OBS: Også en presentasjon muligens... avventer status på dette. 
+
+Gruppeoppgaver. Skal presenteres foran klassen. 
 
 
 ## Viktige ressurser:

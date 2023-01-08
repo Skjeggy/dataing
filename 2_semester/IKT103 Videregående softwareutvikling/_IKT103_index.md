@@ -1,3 +1,6 @@
+---
+alias: Videregående softwareutvikling
+---
 # [Videregående softwareutvikling](https://www.uia.no/studieplaner/topic/IKT103-G?year=2022) 
 
 Evalueringsform: Mappe + prosjektoppgave, individuelt eller gruppe. 

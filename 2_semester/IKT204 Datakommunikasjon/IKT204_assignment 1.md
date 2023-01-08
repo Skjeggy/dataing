@@ -68,8 +68,10 @@ $$ d_\text{prop} = \frac{m}{s} $$
 **A few questions from the history of the Internet.
 
 ### **a)** What historical event took place on January 1, 1983?  
+Første gang internet ble "skrudd på" (IPS protokollen kjørte) via ARPANET, av US Department of Defence. 
 
-Known as “flag day”, it was the first time the US Department of Defence-commissioned Arpanet network fully switched to use of the internet protocol suite (IPS) communications system.
+January 1, 1983 saw the official deployment of TCP/IP as the new standard host protocol for ARPAnet (replacing the NCP protocol). The transition [RFC 801] from NCP to TCP/IP was a flag day event—all hosts were required to transfer over to TCP/IP as of that day. 
 
 ### **b)** Who is known as the inventor of the World Wide Web (WWW).  
+
 ### **c)** Which protocols did this person specify?

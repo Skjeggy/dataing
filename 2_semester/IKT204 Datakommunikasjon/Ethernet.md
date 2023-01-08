@@ -1,0 +1,1 @@
+Dette laget kan relateres til rutere og dens adresser. Adresser her blir kalt for MAC adresser, dette er ikke det samme som IP adresse. Dette laget kan både lese IP og MAC adresser mens lag 3 kun leser IP adresser. Pakker sendt fra dette laget kalles for frame.

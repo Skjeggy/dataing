@@ -1,0 +1,1 @@
+Sender data ut som en bitstrøm. Generelt kan man si at en protokoll er sett med regler som må følges når enheter kommuniserer med hverandre over nett.

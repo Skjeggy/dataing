@@ -35,11 +35,13 @@ What do encapsulation and de-encapsulation mean? Why are they needed in a layere
 Propagation delay and transmission delay are two central concepts in data networking. Consider two hosts, A and B, connected by a single link of rate **_R_** bps. Suppose that the two hosts are separated by **_m_** meters, and suppose the propagation speed along the link is **_s_** meters/sec. Host A is to send a packet of size **_L_** bits to Host B.
 
 ### **a)** Express the propagation delay, **_d_prop**, in terms of **_m_** and **_s_**. 
+
+#### Svar:
 Host A sends a packat of size L (bits) to Host B which is m meters away, using a link of rate R (bps) with propegation speed along the link being s (meters/second). What is the propegation delay in terms of m and s ? 
 
-Since the propegation delay is $$ \frac{}{} $$
+Since the propegation delay is $$ d_\text{prop} = \frac{d}{s} $$ where d is the distance between Host A and Host B, in other words m, and s is the propegation speed of the link, in other words s. Thus,
 
-$$ d_\text{prop} = \text{distance be} $$
+$$ d_\text{prop} = \frac{m}{s} $$
 
 ### **b)** Determine the transmission time of the packet, **_d_trans**, in terms of **_L_** and **_R_**.  
 ### **c)** Ignoring processing and queuing delays, obtain an expression for the end-to-end delay.  

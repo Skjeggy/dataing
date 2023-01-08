@@ -19,7 +19,7 @@ To be announced.
 - Lurt å kjøpe mikrokontrollere med wifi - kanda bruke https://esphome.io/
 
 ## Viktige ressurser
-[[https://esphome.io/]]
+[[ESPhome]] 
 https://www.raspberrypi.org/
 https://www.arduino.cc/
 

@@ -8,6 +8,12 @@ To be announced.
 ## Prosjekt
 To be announced.
 
+# Annet
+
+## Notes
+- Snakk med Jan Erik - han har mekket mye på mikrokontrollere siste tiden.
+- Sjekk ut [[Raspberry Pi]]
+- Lurt å kjøpe mikrokontrollere med wifi.
 
 ## Viktige ressurser
 

@@ -34,6 +34,8 @@ What do encapsulation and de-encapsulation mean? Why are they needed in a layere
 ## Ch. 1.6. (10 points)  
 Propagation delay and transmission delay are two central concepts in data networking. Consider two hosts, A and B, connected by a single link of rate **_R_** bps. Suppose that the two hosts are separated by **_m_** meters, and suppose the propagation speed along the link is **_s_** meters/sec. Host A is to send a packet of size **_L_** bits to Host B.
 
+Sjekk ut https://kopimi.datapor.no/DAT204%20-%20Datakommunikasjon/networkFormulas.pdf som har mye av svarene.
+
 ### **a)** Express the propagation delay, **_d_prop**, in terms of **_m_** and **_s_**. 
 
 #### Svar:
@@ -50,21 +52,24 @@ $$ d_\text{prop} = \frac{m}{s} $$
 ### **f)** Suppose **_d_prop** is less than **_d_trans**. At time **_t_ = _d_trans**, where is the first bit of the packet?  
 ### **g)** Suppose **_s_** = 2.5 **.** 108 m/s, **_L_** = 1500 bytes, and **_R_** = 20 Mbps, where M is SI standard (base 10) 106 and not binary (base 2) 220 = 10242. Find the distance **_m_** so that **_d_prop** equals **_d_trans**.
 
-**Ch. 1.7. (10 points)  
+## **Ch. 1.7. (10 points)  
 **Consider the network illustrated in Figure 1.16. Assume the two hosts on the left of the figure start transmitting packets of 1500 bytes at the same time towards Router B. Suppose the link rates between the hosts and the Router A is 4 Mbps, where M is SI standard (base 10) 106 and not binary (base 2) 220 = 10242. One link has a 2 milliseconds propagation delay and the other has a 3 milliseconds propagation delay. Link rate between Router A and Router B is 100 Mbps. Assume neglectable processing delay at Router A (**_dprocRouterA_ ≈ 0**) and its outbound queue towards Router B is currently empty. Will queuing delay occur in Router A? Support your answer with calculations.
 
 ![Chapter1_Figure_1.16.PNG](https://files.transtutors.com/book/qimg/a3b868b1-2e82-465e-858e-54da5c20781a.png)
 
-**Ch. 1.8. (15 points)  
+## **Ch. 1.8. (15 points)  
 **Consider a user who needs to upload 1 GB of data to a server, where G is SI standard (base 10) 109 and not binary (base 2) 230 = 10243. The user lives in a small town where only 56 kbps dial-up access is available. A bus visits the small town once a day from the closest city 150 km away and stops in front of the user’s house. The bus has a 100 Mbps Wi-Fi connection. It can collect data from users in rural areas and transfer them to the Internet through a 1 Gbps link once it gets back to the city. Suppose average speed of the bus is 60 km/h.
 
-**a)** How long is the upload time when using dial-up internet access?  
-**b)** How long is the upload time when using the bus?  
-**c)** What is the fastest way for the user to transfer the data to the server?
+### **a)** How long is the upload time when using dial-up internet access?  
+### **b)** How long is the upload time when using the bus?  
+### **c)** What is the fastest way for the user to transfer the data to the server?
 
-**Ch. 1.9. (10 points)  
+## **Ch. 1.9. (10 points)  
 **A few questions from the history of the Internet.
 
-**a)** What historical event took place on January 1, 1983?  
-**b)** Who is known as the inventor of the World Wide Web (WWW).  
-**c)** Which protocols did this person specify?
+### **a)** What historical event took place on January 1, 1983?  
+
+Known as “flag day”, it was the first time the US Department of Defence-commissioned Arpanet network fully switched to use of the internet protocol suite (IPS) communications system.
+
+### **b)** Who is known as the inventor of the World Wide Web (WWW).  
+### **c)** Which protocols did this person specify?

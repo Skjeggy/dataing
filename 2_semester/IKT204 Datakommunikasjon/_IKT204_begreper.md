@@ -12,6 +12,7 @@
 [[ACK]]
 [[ARQ protocols]]
 
-Point of 
-
+[[Point of presence (PoP)]]
+[[Multi-home]]
+[[Peer]]
 

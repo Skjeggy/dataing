@@ -1,5 +1,5 @@
 ---
-alias: Datakommunikasjon, oversikt
+alias: Datakommunikasjon
 ---
 # [Datakommunikasjon](https://www.uia.no/studieplaner/topic/IKT204-G?year=2022) 
 

@@ -9,6 +9,11 @@ Vurderingsform: chill, mappevurdering
 
 Gruppeoppgaver. Skal presenteres foran klassen. 
 
+# Oppgaver
+
+## Innleveringer
+
+
 
 ## Viktige ressurser:
 

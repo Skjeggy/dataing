@@ -6,7 +6,7 @@
 		{"id":"aa5d7e5f0e22f252","x":-760,"y":-161,"width":400,"height":400,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/MA180 Diskret matematikk/_MA180_index.md"},
 		{"id":"1510e61766adb3e5","x":280,"y":-652,"width":400,"height":400,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT104 (Mikrokontrollere)/_IKT104_index.md"},
 		{"id":"7c091d795b3b557b","x":280,"y":-161,"width":400,"height":400,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT103 Videregående softwareutvikling/_IKT103_index.md"},
-		{"id":"b959e97df59bf429","x":-148,"y":-320,"width":211,"height":68,"type":"text","text":"# 2. Semester"}
+		{"id":"b959e97df59bf429","x":-195,"y":-320,"width":305,"height":159,"type":"text","text":"# 2. Semester"}
 	],
 	"edges":[
 		{"id":"dad60f8d3a36d9ae","fromNode":"b959e97df59bf429","fromSide":"top","toNode":"4f2cb19db7fc22c6","toSide":"bottom"},

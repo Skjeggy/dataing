@@ -6,7 +6,24 @@ alias: Mikrokontrollere
 Vurdering:  mappevurdering + prosjekt. Ingen eksamen.
 
 # Oppgaver
-To be announced.
+
+## Assignment 1
+[[IKT104_asgmt1|Assignment 1]]
+
+## Assignment 2
+[[IKT104_asgmt2]]
+
+[[IKT104_asgmt3]]
+
+
+[[IKT104_asgmt4]]
+
+[[IKT104_asgmt1]]
+
+[[IKT104_asgmt1]]
+
+[[IKT104_asgmt1]]
+
 
 ## Prosjekt
 To be announced.
@@ -17,6 +34,7 @@ To be announced.
 - Snakk med Jan Erik - han har mekket mye på mikrokontrollere siste tiden.
 - Sjekk ut [[Raspberry Pi]]
 - Lurt å kjøpe mikrokontrollere med wifi - kanda bruke https://esphome.io/
+
 
 ## Viktige ressurser
 [[ESPhome]] 

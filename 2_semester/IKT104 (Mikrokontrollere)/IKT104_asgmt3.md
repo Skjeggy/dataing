@@ -1,5 +1,5 @@
 ---
-alias: Assignment 3 - I2C: Temperature and humidity
+alias: "IKT104 Assignment 3 - I2C: Temperature and humidity"
 ---
 
 # Assignment 3 - I2C: Temperature and humidity

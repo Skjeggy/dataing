@@ -1,5 +1,5 @@
 ---
-alias: IKT104 Assignment 1
+alias: IKT104 Assignment 1 - Getting started
 ---
 
 # Getting started

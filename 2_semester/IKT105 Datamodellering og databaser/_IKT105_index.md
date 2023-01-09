@@ -37,5 +37,5 @@ Lab er fredager 12:15-16:00 i F 203, 204 og 225.
 - [Løsning - Generelt om databaser](https://grimstad.uia.no/perhh/phh/fag/edb/dt2800/l/db/db_1.htm)
 - [Alle forelesningene på Matric, tatt fra Covid-dagene](https://grimstad.uia.no/perhh/phh/fag/edb/dt2800/f/k02/000.htm)
 
-
+https://archive.org/details/database-system-concepts-7th-edition
 

@@ -5,9 +5,7 @@ alias: Cybersikkerhet
 # [Cybersikkerhet](https://www.uia.no/studieplaner/topic/IKT207-G) 
 
 Tas som ekstrafag.
-
 Vurderingsform: chill, mappevurdering
-
 Gruppeoppgaver. Skal presenteres foran klassen. 
 
 # [Modules 1-5 - Information Security Basics](https://uia.instructure.com/courses/12512/modules "Modules")

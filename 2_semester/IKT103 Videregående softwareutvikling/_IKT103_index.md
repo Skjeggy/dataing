@@ -1,12 +1,11 @@
 ---
 alias: Videregående softwareutvikling
 ---
+
 # [Videregående softwareutvikling](https://www.uia.no/studieplaner/topic/IKT103-G?year=2022) 
 
 Evalueringsform: Mappe + prosjektoppgave, individuelt eller gruppe. 
-
 Språk: C++, Python
-
 Koder i Clion og [[PyCharm]].
 
 # Oppgaver
@@ -24,6 +23,8 @@ To be announced.
 
 ## Todo
 - [ ] Installere [[PyCharm]]. ⏫ 🛫 2023-01-09 📅 2023-01-13
+- [ ] Gå gjennom ch. 1 og ch. 2 på https://www.learncpp.com/ 📅 2023-01-13 
+- [ ] 
 
 
 ## Viktige ressurser

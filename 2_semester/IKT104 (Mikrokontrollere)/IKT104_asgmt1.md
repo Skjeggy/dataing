@@ -1,6 +1,8 @@
 ---
 alias: IKT104 Assignment 1
---- 
+---
+
+# Getting started
 
 ## Introduction
 

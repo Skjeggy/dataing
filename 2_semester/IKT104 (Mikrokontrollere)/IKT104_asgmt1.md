@@ -15,12 +15,14 @@ This first assignment exists mostly to verify that the tools work as they should
 1.  Complete [Course preparations](https://uia.instructure.com/courses/12507/pages/course-preparations "Course preparations") if you haven't already. Every member of the group should do this.  
 
 2.  Go to your _<course folder>_ and create new folder _assignments_. You should avoid comitting and pushing large folders. Open Git Bash (Windows) or Terminal (OSX/Linux), go to _<course folder>/assignments_ and enter the following command: 
-    
-    echo -e "BUILD\nmbed-os\n.mbed\n.github\n*.md" > .gitignore
-    
+
+```
+echo -e "BUILD\nmbed-os\n.mbed\n.github\n*.md" > .gitignore
+```
+
 3.  Open Mbed Studio and select your _<course folder>/assignments_ as workspace. Connect the development board to the PC or select target DISCO-L475VG-IOT01A (B-L475E-IOT01A). Create a new program based on example _mbed-os-example-blinky-baremetal_ and name the program _assignment_1_. Now instead of storing the Mbed OS in the program folder, select link to the existing shared Mbed OS git repository you created during [Course preparations](https://uia.instructure.com/courses/12507/pages/course-preparations "Course preparations") and add program. You should now have the first assignment located at _<course folder>/assignments/assignment_1_.  
       
-    If you rather select _mbed-os-example-blinky_ in stead of the bare metal example, you will include lots of libraries for connectivity (BLE, Cellular, LoRaWAN, WiFi, NFC) and Internet protocols which we will not use at this stage, but the compile time will be huge (depending on of how powerfull your PC is). This can be avoided if you download file  [mbedignore_no_network_connectivity.zip](https://uia.instructure.com/courses/12507/files/2028962?wrap=1 "mbedignore_no_network_connectivity.zip") [Last ned mbedignore_no_network_connectivity.zip](https://uia.instructure.com/courses/12507/files/2028962/download?download_frd=1), unzip and add _.mbedignore_ file next to your _main.cpp_ file in the project.  
+	If you rather select _mbed-os-example-blinky_ in stead of the bare metal example, you will include lots of libraries for connectivity (BLE, Cellular, LoRaWAN, WiFi, NFC) and Internet protocols which we will not use at this stage, but the compile time will be huge (depending on of how powerfull your PC is). This can be avoided if you download file  [mbedignore_no_network_connectivity.zip](https://uia.instructure.com/courses/12507/files/2028962?wrap=1 "mbedignore_no_network_connectivity.zip") [Last ned mbedignore_no_network_connectivity.zip](https://uia.instructure.com/courses/12507/files/2028962/download?download_frd=1), unzip and add _.mbedignore_ file next to your _main.cpp_ file in the project.  
       
     
 4.  Make sure _assignment_1_ is selected as the active program. Build the program (press _the-blue-hammer-button_) and check the console output for errors. If everything is fine, upload the program (press _the-blue-play-button_) to the microcontroller and verify it is running OK (there should be one LED blinking on the development board).

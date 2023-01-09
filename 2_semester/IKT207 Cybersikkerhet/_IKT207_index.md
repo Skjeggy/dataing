@@ -34,8 +34,8 @@ Modules 1, 2 and 4 also contain a practical exercise. They are designed to give 
 
 ## Viktige ressurser:
 [[IKT207_vurderingsveiledning|Vurderingsveiledning for self study]]
-
 https://ctf.cybertalent.no
-
 https://kopimi.datapor.no/IKT207%20-%20Cybersikkerhet/Files/
+
+[[Security+ study guide]]
 

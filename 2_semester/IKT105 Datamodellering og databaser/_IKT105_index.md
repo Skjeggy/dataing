@@ -39,3 +39,6 @@ Lab er fredager 12:15-16:00 i F 203, 204 og 225.
 
 https://archive.org/details/database-system-concepts-7th-edition
 
+https://www.db-book.com/
+
+[](https://github.com/Sorosliu1029/Database-Systems/blob/master/Database-System-Concepts-7th-Edition.pdf)

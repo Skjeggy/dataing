@@ -3,7 +3,7 @@ alias: "IKT104 Assignment 2 - Light dimmer"
 ---
 
 # Assignment 2 - Light dimmer
-- [ ] 📅 2023-01-29
+- [ ] Finish Assignment 2 📅 2023-01-29
 
 ## Preparation
 

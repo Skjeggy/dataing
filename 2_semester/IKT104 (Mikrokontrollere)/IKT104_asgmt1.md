@@ -3,7 +3,7 @@ alias: "IKT104 Assignment 1 - Getting started"
 ---
 
 # Assignment 1 - Getting started
-- [ ] 📅 2023-01-22
+- [ ] Finish Assignement 1 📅 2023-01-22
 
 ## Introduction
 

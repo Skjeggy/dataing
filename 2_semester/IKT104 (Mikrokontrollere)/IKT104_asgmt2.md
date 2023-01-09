@@ -1,6 +1,8 @@
 ---
-alias: IKT104 Assignment 2
+alias: "IKT104 Assignment 2 - Light dimmer"
 ---
+
+# Assignment 2 - Light dimmer
 
 ## Preparation
 

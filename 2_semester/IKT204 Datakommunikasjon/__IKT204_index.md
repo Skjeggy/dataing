@@ -11,8 +11,6 @@ I følge Thi ble det ved hennes forrige eksamen brukt spørsmål (og svar) fra [
 [[_IKT204_begreper]]
 
 
-
-
 ## Oppgaver:
 
 ### Module 1

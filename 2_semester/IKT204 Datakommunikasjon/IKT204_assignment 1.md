@@ -1,3 +1,8 @@
+---
+alias: "IKT204 Assignment 1"
+---
+
+- [ ] Finish assignment 1 📅 2023-01-13
 
 ## Ch. 1.1. (10 points)  
 Suppose there is exactly one packet switch between a sending host and a receiving host. The transmission rates between the sending host and the switch and between the switch and the receiving host are **_R_1** and **_R_2**, respectively. Assuming the switch uses store-and-forward packet switching, what is the total end-to-end delay to send a packet of length _L_? (Ignore queuing, propagation delay, and processing delay.

@@ -13,8 +13,7 @@ This first assignment exists mostly to verify that the tools work as they should
 ## Preparation
 
 1.  Complete [Course preparations](https://uia.instructure.com/courses/12507/pages/course-preparations "Course preparations") if you haven't already. Every member of the group should do this.  
-      
-    
+
 2.  Go to your _<course folder>_ and create new folder _assignments_. You should avoid comitting and pushing large folders. Open Git Bash (Windows) or Terminal (OSX/Linux), go to _<course folder>/assignments_ and enter the following command: 
     
     echo -e "BUILD\nmbed-os\n.mbed\n.github\n*.md" > .gitignore

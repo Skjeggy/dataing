@@ -3,7 +3,7 @@ alias: 1.1 Threats, Attacks and Vulnerabilities (Study, for review)
 ---
 
 # Status
-- [ ] Finish 📅 2023-01-20
+- [ ] Assignment 1, grading 📅 2023-01-20
 
 # Oppgavetekst
 

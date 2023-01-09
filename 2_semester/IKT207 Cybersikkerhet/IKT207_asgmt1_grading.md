@@ -3,7 +3,7 @@ alias: 1.1 Threats, Attacks and Vulnerabilities (Study, for grading)
 ---
 
 # Status
-- [ ] Finish 📅 2023-01-20
+- [ ] Assignment 1, grading 📅 2023-01-20
 
 # Oppgavetekst
 
@@ -18,3 +18,5 @@ Following the guidelines for [self study](https://uia.instructure.com/courses/1
 The minimum requirement is to cover the topic a bit deeper than the level of the course material.
 
 The essay/article should be written in english.
+
+# Besvarelse

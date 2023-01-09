@@ -15,6 +15,7 @@ Gruppeoppgaver. Skal presenteres foran klassen.
 
 
 
+
 ## Viktige ressurser:
 
 https://ctf.cybertalent.no

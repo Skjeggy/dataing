@@ -23,7 +23,7 @@ To be announced.
 
 ## Todo
 - [ ] Installere [[PyCharm]]. ⏫ 🛫 2023-01-09 📅 2023-01-13
-- [ ] Gå gjennom ch. 1 og ch. 2 på https://www.learncpp.com/ 📅 2023-01-13 
+- [ ] Gå gjennom ch. 1 og ch. 2 på https://www.learncpp.com/ 📅 2023-01-13
 - [ ] 
 
 

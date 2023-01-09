@@ -1,6 +1,7 @@
 ---
 alias: Cybersikkerhet
 ---
+
 # [Cybersikkerhet](https://www.uia.no/studieplaner/topic/IKT207-G) 
 
 Tas som ekstrafag.
@@ -27,7 +28,11 @@ Modules 1, 2 and 4 also contain a practical exercise. They are designed to give 
 # Oppgaver
 
 ## Innleveringer
-[[IKT207_a]]
+[[IKT207_asgmt1_review|(Study, for review) 1.1 Threats, Attacks and Vulnerabilities]]
+[[IKT207_asgmt1_grading|(Study, for grading) 1.1 Threats, Attacks and Vulnerabilities]]
+[[IKT207_asgmt2_review|(Study, for review) 2.1 Cryptography]]
+[[IKT207_asgmt2_gradign|(Study, for grading) 2.1 Cryptography]]
+(Study, for grading) 2.1 Cryptography
 
 
 

@@ -4,6 +4,7 @@ alias: "IKT104 Assignment 3 - I2C: Temperature and humidity"
 
 # Assignment 3 - I2C: Temperature and humidity
 
+
 ## Preparations
 
 This assignment assumes you have completed all steps of the previous assignments. The resources and general instructions from previous assignments are still useful here, this assignment will only list new relevant resources.

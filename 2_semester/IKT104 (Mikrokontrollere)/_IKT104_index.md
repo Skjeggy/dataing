@@ -7,24 +7,15 @@ Vurdering:  mappevurdering + prosjekt. Ingen eksamen.
 
 # Oppgaver
 
-## Assignment 1
+## Gruppeoppgaver
 [[IKT104_asgmt1|Assignment 1]]
-
-## Assignment 2
-[[IKT104_asgmt2]]
-
-[[IKT104_asgmt3]]
-
-
-[[IKT104_asgmt4]]
-
-[[IKT104_asgmt1]]
-
-[[IKT104_asgmt1]]
-
-[[IKT104_asgmt1]]
-
-
+[[IKT104_asgmt2|Assignment 2]]
+[[IKT104_asgmt3|Assignment 3]]
+[[IKT104_asgmt4|Assignment 4]]
+[[IKT104_asgmt5|Assignment 5]]
+[[IKT104_asgmt6|Assignment 6]]
+[[IKT104_asgmt7|Assignment 7]]
+	
 ## Prosjekt
 To be announced.
 

@@ -1,5 +1,5 @@
 ---
-alias 
+alias: "Self study, vurderingsveiledning/sensorveiledning"
 ---
 
 

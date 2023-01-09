@@ -30,7 +30,7 @@ Lab er fredager 12:15-16:00 i F 203, 204 og 225.
 - Quiz 4
 
 # Eksamen
-**Eksamensdato: 31.03.23**
+Eksamens
 
 # Viktige ressurser
 - [Sammendrag av alle forelesningene fra kopimi.dataspor.no](https://kopimi.datapor.no/IKT105%20-%20Datamodellering%20og%20databaser/Sammendrag/)

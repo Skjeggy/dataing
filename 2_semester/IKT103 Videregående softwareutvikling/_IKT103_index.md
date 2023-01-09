@@ -11,6 +11,9 @@ Koder i Clion og [[PyCharm]].
 
 # Oppgaver
 
+## Course preparations
+TODO Configure 
+
 ## Assignments
 Se canvas.
 

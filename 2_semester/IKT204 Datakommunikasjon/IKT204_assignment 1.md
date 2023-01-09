@@ -17,7 +17,6 @@ What is the total end-to-end delay to send a packet of length L ?
 
 $$\text{Total end-to-end delay} = \frac{L}{R_1} + \frac{L}{R_2}  $$
 
-
 ## Ch. 1.2. (15 points) 
 What are the five layers in the Internet protocol stack? What are the principal responsibilities of each of these layers?
 

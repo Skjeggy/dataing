@@ -12,7 +12,7 @@ Gruppeoppgaver. Skal presenteres foran klassen.
 # Oppgaver
 
 ## Innleveringer
-
+[[IKT207_a]]
 
 
 

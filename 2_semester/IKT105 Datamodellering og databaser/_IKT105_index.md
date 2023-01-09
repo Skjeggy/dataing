@@ -41,4 +41,4 @@ https://archive.org/details/database-system-concepts-7th-edition
 
 https://www.db-book.com/
 
-[](https://github.com/Sorosliu1029/Database-Systems/blob/master/Database-System-Concepts-7th-Edition.pdf)
+[**Database-System-Concepts-7th-Edition.pdf**](https://github.com/Sorosliu1029/Database-Systems/blob/master/Database-System-Concepts-7th-Edition.pdf)

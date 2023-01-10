@@ -1,12 +1,12 @@
 {
 	"nodes":[
 		{"id":"4f2cb19db7fc22c6","x":-243,"y":-1075,"width":400,"height":423,"color":"2","type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT105 Datamodellering og databaser/_IKT105_index.md"},
-		{"id":"c32b7bb17e35ae02","x":-243,"y":239,"width":400,"height":400,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT204 Datakommunikasjon/__IKT204_index.md"},
 		{"id":"5668583278a22e2b","x":-760,"y":-652,"width":400,"height":400,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT207 Cybersikkerhet/_IKT207_index.md"},
 		{"id":"aa5d7e5f0e22f252","x":-760,"y":-161,"width":400,"height":400,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/MA180 Diskret matematikk/_MA180_index.md"},
 		{"id":"1510e61766adb3e5","x":280,"y":-652,"width":400,"height":400,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT104 (Mikrokontrollere)/_IKT104_index.md"},
-		{"id":"7c091d795b3b557b","x":280,"y":-161,"width":400,"height":400,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT103 Videregående softwareutvikling/_IKT103_index.md"},
-		{"id":"b959e97df59bf429","x":-195,"y":-320,"width":305,"height":159,"type":"text","text":"# 2. Semester"}
+		{"id":"b959e97df59bf429","x":-195,"y":-320,"width":305,"height":159,"type":"text","text":"# 2. Semester"},
+		{"id":"c32b7bb17e35ae02","x":-243,"y":239,"width":400,"height":400,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT204 Datakommunikasjon/__IKT204_index.md"},
+		{"id":"7c091d795b3b557b","x":280,"y":-161,"width":400,"height":400,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT103 Videregående softwareutvikling/_IKT103_index.md"}
 	],
 	"edges":[
 		{"id":"dad60f8d3a36d9ae","fromNode":"b959e97df59bf429","fromSide":"top","toNode":"4f2cb19db7fc22c6","toSide":"bottom"},

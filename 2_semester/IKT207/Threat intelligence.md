@@ -32,3 +32,10 @@ Often offer closed sources threat intelligence solutions for a fee. Samme som i 
 LIST 
 FROM #threat_intelligence
 ```
+
+
+# Vocabulary
+```dataview
+TABLE definition as "Definition"
+FROM #threat_intelligence 
+```

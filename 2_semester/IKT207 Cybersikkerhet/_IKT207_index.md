@@ -7,6 +7,7 @@ alias: Cybersikkerhet
 Tas som ekstrafag.
 Vurderingsform: chill, mappevurdering
 Gruppeoppgaver. Skal presenteres foran klassen. 
+Providing useful questions and/or answers to fellow students on Discord, can boost your final grade up to +10%
 
 # [Modules 1-5 - Information Security Basics](https://uia.instructure.com/courses/12512/modules "Modules")
 

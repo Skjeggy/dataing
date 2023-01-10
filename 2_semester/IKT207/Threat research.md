@@ -22,3 +22,8 @@ Combine both of these for powerful results.
 - RFC documents
 - Local industry groups
 - Social media
+- Threat feeds
+- Adversary tactics, techniques and procedures (TTP)
+
+
+

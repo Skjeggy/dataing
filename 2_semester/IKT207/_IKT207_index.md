@@ -24,8 +24,11 @@ Modules 1, 2 and 4 also contain a practical exercise. They are designed to give 
 -   Be prepared to present and/or demonstrate your solution to the rest of the class
 
 # Topics
+- [[Malware]]
+- [[Understanding attackers]]
+- [[Threat intelligence]]
+- 
 
-[[Malware]]
 
 
 # Oppgaver

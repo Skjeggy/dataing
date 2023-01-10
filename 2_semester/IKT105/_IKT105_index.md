@@ -17,6 +17,8 @@ Database: + Total 4 øvinger -> veldig eksamens relevant. Kan leveres flere gang
 # Oversikter
 [[Begreper]]
 
+
+
 # Oppgaver
 
 ## Gruppeoppgaver

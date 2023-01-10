@@ -30,3 +30,9 @@ To be announced.
 - https://www.learncpp.com/
 - https://learnpython.org/
 - [[IKT103 presentasjoner]]
+
+
+
+## Test
+```dataview LIST 
+WHERE contains(file.folder, this.file.folder) ```

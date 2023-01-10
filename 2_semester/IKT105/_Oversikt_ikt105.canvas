@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"729e94cbaaa13945","x":-583,"y":-22,"width":884,"height":544,"type":"text","text":"<iframe width=\"853\" height=\"480\" src=\"https://www.youtube.com/embed/GFQaEYEc8_8\" title=\"Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"},
-		{"id":"ecf9e197ba8a4211","x":-1080,"y":-555,"width":400,"height":1077,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT105 Datamodellering og databaser/_IKT105_index.md"},
-		{"id":"57c963b1ff7e13d1","x":-99,"y":-555,"width":400,"height":459,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT105 Datamodellering og databaser/Begreper.md"}
+		{"id":"ecf9e197ba8a4211","x":-1080,"y":-555,"width":400,"height":1077,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT105/_IKT105_index.md"},
+		{"id":"57c963b1ff7e13d1","x":-99,"y":-555,"width":400,"height":459,"type":"file","file":"Skole/Dataingeniør, UIA/2_semester/IKT105/Begreper.md"}
 	],
 	"edges":[
 		{"id":"a166fc7919b65461","fromNode":"729e94cbaaa13945","fromSide":"right","toNode":"57c963b1ff7e13d1","toSide":"right"},

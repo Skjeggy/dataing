@@ -12,6 +12,8 @@ Den første forelesningen blir tirsdag 10/1 kl12:15-14:00 i auditoriet C2 042 og
 
 Lab er fredager 12:15-16:00 i F 203, 204 og 225.
 
+Database: + Total 4 øvinger -> veldig eksamens relevant. Kan leveres flere ganger før fristen. Må godkjennes på lab, men kan også digial for de som har jobb. + 3 Quiz. De er godkjent/ikke godkjent Før midten av mars, deretter: + prosjekt ( teller 30% av karakter) Eksamen 31.mars (70% av karakter) - Skriftlig på ark på skolen. Tegne modeller for hånd istedenfor program. Note: Blir lab på fredag 12.15 - 16.00, kan vise øvingen vår der og få tilbakemelding, evt. levere. Øving 1 helt prikk til gammel øving
+
 # Oversikter
 [[Begreper]]
 

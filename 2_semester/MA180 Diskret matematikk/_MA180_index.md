@@ -2,10 +2,7 @@
 
 Vurdering: chill, mappevurdering.
 
-
-# Status
-
-Avventer per nå. 
+Ingen forelesning og ingen eksamer. Det er bare å bestå Quiz. De kommer etterhvert med frister. Total 6. Forelesning er alt på modul. På oppgaver ligger det øvinger fra boka. Må skaffe bok. Thi har denne. 
 
 
 ## Eksamen

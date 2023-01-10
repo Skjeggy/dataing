@@ -14,4 +14,10 @@ Usually a manual process. Now being automated.
 Automatically supplements incident data. 
 
 Examples: 
-- Perform source adr
+- Perform source address reconnaissance
+- Retrieve related log records
+- Trigger vulnerability scan
+
+Security Orchestration, Automation, and Response (SOAR) platforms enhance SIEM capabilities.
+
+Machine learning provides interesting possibilities concerning automated creation of malware signatures. 

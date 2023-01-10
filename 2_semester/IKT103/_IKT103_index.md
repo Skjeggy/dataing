@@ -34,5 +34,7 @@ To be announced.
 
 
 ## Test
-```dataview LIST 
-WHERE contains(file.folder, this.file.folder) ```
+```dataview 
+LIST 
+WHERE contains(file.folder, this.file.folder) 
+```

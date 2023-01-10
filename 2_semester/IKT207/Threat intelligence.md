@@ -1,3 +1,4 @@
+#threat_intelligence
 
 ## Introduction
 Threat intelligence is a set of activities that an organization undertakes to educate itself about changes in cybersecurity threat landscape, and adapt security controls based on that information.
@@ -25,3 +26,9 @@ Often offer closed sources threat intelligence solutions for a fee. Samme som i 
 - Accuracy (is source correct?)
 - Reliability (is the source consistent?)
 
+
+# Related topics
+```dataview
+LIST 
+FROM #threat_intelligence
+```

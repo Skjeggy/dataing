@@ -37,5 +37,5 @@ FROM #threat_intelligence
 # Vocabulary
 ```dataview
 TABLE definition as "Definition"
-FROM #threat_intelligence 
+FROM #threat_intelligence AND #vocab 
 ```

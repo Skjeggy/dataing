@@ -23,6 +23,10 @@ Modules 1, 2 and 4 also contain a practical exercise. They are designed to give 
 -   Read the scenario and objectives, and follow the instructions given.
 -   Be prepared to present and/or demonstrate your solution to the rest of the class
 
+# Topics
+
+[[Malware]]
+
 
 # Oppgaver
 

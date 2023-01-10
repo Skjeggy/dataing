@@ -14,8 +14,14 @@ Standardised and structured language to communicate security information between
 Takes the properties that CybOX gives us and structures them in a standerdized manner.
 
 ## Trusted Automated eXchange of Indicators Information (TAXII)
-
+Shares this information automatically.
 
 
 
 ![[Pasted image 20230110222143.png]]
+
+## OpenIOC
+Mandiant threat framework. A different framework to describe security threats.
+
+## Final thoughts
+Security systems and services should support the abovementioned information standards.

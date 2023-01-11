@@ -1,0 +1,1 @@
+When all the animals go to the same watering hole, they are vulnerable. Same online with a gang of similar users all using a webpage 

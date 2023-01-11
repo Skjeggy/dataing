@@ -1,3 +1,5 @@
 ---
-alias: Service Set Identifier
+alias: Service Set IDentifier
 ---
+
+definition::  Service Set IDentifier

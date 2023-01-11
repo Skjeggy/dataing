@@ -21,3 +21,13 @@ Add variations to tries. I.e. numbers at the end.
 
 ## Rainbow table attack
 Precomputes hashes.
+
+
+# Password cracking software
+	
+[John the Ripper](https://www.openwall.com/john/)
+
+
+# Beware
+Storing passwords unencrypted. 
+Must take care to use strong hashing and passwords should be only one piece of the puzzle. 

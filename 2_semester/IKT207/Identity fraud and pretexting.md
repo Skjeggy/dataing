@@ -5,4 +5,4 @@ Targets individuals. Increase during later years.
 Impersonates a consumer. Often the first step in a larger attack.
 
 >[!example]
-> Andy wants to get into Norms bank account. Needs to acces phone to reset password.
+> Andy wants to get into Norms bank account. Needs to access phone to reset password. Convinces phone company to switch number to a number he controls. To do this he answers security questions (favorite pet etc) which andy 

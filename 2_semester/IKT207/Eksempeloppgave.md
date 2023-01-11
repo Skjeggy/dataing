@@ -1,4 +1,4 @@
-OBS: Skrevet av chatgpt
+**OBS: Skrevet av chatgpt**
 
 A watering hole attack is a type of cyberattack in which hackers target a specific group or organization by compromising a website or online resource that they are known to frequent. The idea behind a watering hole attack is to "poison the well" by infecting a commonly used resource with malware or other malicious code, in order to gain access to the systems of the targeted individuals or organizations.
 

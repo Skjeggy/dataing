@@ -1,0 +1,1 @@
+- [ ] EDB opplæring med Maylen kl 13:00 🛫 2023-01-13

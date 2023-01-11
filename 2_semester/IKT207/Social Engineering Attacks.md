@@ -11,3 +11,4 @@ FROM #social_engineering_attacks
 [[Impersonation attacks]]
 [[Identity fraud and pretexting]]
 [[Watering hole attacks]]
+[[Physical social engineering]]

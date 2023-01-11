@@ -10,3 +10,11 @@ Discover knowledge in data. Subset of artificial intelligence.
 
 
 Important to build robust AI that can withstand attacks.
+
+
+
+```mermaid
+graph LR
+
+Biology --> Math --> Science!
+```

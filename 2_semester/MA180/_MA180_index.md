@@ -8,8 +8,7 @@ Ingen forelesning og ingen eksamer. Det er bare å bestå Quiz. De kommer etterh
 
 \- Foreleseren.
 
-Forrige år hadde de Sodoku. Eksamen var copy paste fra forrige år og quizzene.  
-
+Forrige år hadde de Sudoku. Eksamen var copy paste fra forrige år og quizzene.  
 
 ## Eksamen
 

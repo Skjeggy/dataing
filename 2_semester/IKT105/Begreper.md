@@ -17,3 +17,7 @@ Begreper fra Øving 1:
 [[Foreign key]]
 
 [[Modellator]]
+
+[[Nullmerker]]
+
+[[Relasjonsalgebra]]

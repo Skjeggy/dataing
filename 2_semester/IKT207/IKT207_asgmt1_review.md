@@ -29,4 +29,7 @@ The essay/article should be written in english.
 ## Forslag til tema
 - [[Malware payloads]] ? Spisse inn på Ransomware ?
 
+Foreslå tema inn i chatten. 
+
+[[Medical hacking]] - 
 - 

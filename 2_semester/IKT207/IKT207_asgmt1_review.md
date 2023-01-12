@@ -24,3 +24,6 @@ The essay/article should be written in english.
 
 ## Eksempeloppgave fra chatgpt
 [[Eksempeloppgave]]
+
+
+

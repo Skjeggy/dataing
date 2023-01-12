@@ -17,9 +17,14 @@ Database: + Total 4 øvinger -> veldig eksamens relevant. Kan leveres flere gang
 # Oversikter
 [[Begreper]]
 
+# Forelesningsnotater
+[[IKT105 Forelsning 12.01.23]]
+
+
 # Oppgaver
 
-## Gruppeoppgaver
+## Gruppeoppgaver - IKT_DB_Lab 6
+
 - [[IKT105 - Øving 1]]
 - [[IKT105 - Øving 2]]
 - [[IKT105 - Øving 3]]

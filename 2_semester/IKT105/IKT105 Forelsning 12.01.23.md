@@ -29,3 +29,16 @@ Systemutvikling er komplisert - krever planlegging. Som arkitekttegning.
 Link til serveren Halvard anbefaler å laste ned på canvas. 
 Log in på Oracle  - for å sleppe, "no thanks, just take me to the download". Ikke nødvendig per nå. 
 
+
+Attributter - en tabell har flere attributter.  En kolonneoverskrift.
+
+
+
+| Fornavn | Etternavn | Ansatt dato | Lønn    | Stilling | Prosjektkode | Timer |
+| ------- | --------- | ----------- | ------- | -------- | ------------ | ----- |
+| Hans    | Hansen    | 23.08.2006  | 325.000 | 1002     | 44           |       |
+|         |           |             |         | 1007     | 25           |       |
+|         |           |             |         | 1012     | 10           |       |
+
+
+

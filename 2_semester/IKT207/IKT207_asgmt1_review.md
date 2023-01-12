@@ -26,4 +26,6 @@ The essay/article should be written in english.
 [[Eksempeloppgave]]
 
 
-
+## Forslag til tema
+- [[Malware payloads]] ? Spisse inn på Ransomware ?
+- 

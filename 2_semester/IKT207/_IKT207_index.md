@@ -29,6 +29,9 @@ Modules 1, 2 and 4 also contain a practical exercise. They are designed to give 
 - [[Threat intelligence]]
 - [[Social Engineering Attacks]]
 - [[Common attacks]]
+- [[Understanding vulnerability types]]
+- [[Vulnerability Scanning]]
+- 
 
 # Oppgaver
 

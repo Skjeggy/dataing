@@ -9,4 +9,9 @@ Incorporate security early, avoid bolt-on requirements later.
 Untrained users and weak business processes are just as dangerous as technical flaws.
 
 >[!example]
->Det hjelper lite med 
+>Det hjelper lite med sikre systemer for pasientjournaler dersom man printer ut journalene og lar dem ligge å flyte.
+
+
+# System sprawl
+New devices are connected, old ones are not disconnected. -> security vulnerabilities.
+Even more dangerous when undocumented.

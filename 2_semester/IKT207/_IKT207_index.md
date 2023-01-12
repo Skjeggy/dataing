@@ -32,7 +32,6 @@ Modules 1, 2 and 4 also contain a practical exercise. They are designed to give 
 - [[Understanding vulnerability types]]
 - [[Vulnerability Scanning]]
 - 
-
 # Oppgaver
 
 ## Innleveringer
@@ -45,7 +44,6 @@ Modules 1, 2 and 4 also contain a practical exercise. They are designed to give 
 
 ### Gruppeoppgaver
 Vi er lab group 1 (Sondre, Thi, Anna)
-
 
 
 ## Viktige ressurser:

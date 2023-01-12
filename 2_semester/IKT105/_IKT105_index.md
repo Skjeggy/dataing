@@ -18,6 +18,7 @@ Database: + Total 4 øvinger -> veldig eksamens relevant. Kan leveres flere gang
 - Praktisk lærdom om databaser
 - Kunne skrive SQL
 - Kunne sette opp databaser
+- Normalisering
 
 Referanser ikke viktig. Kan skrive hvor vi fant ting, men fancy referanser ikke viktig. 
 

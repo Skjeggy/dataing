@@ -5,4 +5,16 @@ Common mistake is to not change the default configuration. Default configuration
 
 # Cryptographic vulnerabilities
 - Weak cipher suites. 
-- Weak cryptographic 
+- Weak cryptographic protocol implementations. 
+- Poor key management
+- Poor certificate management.
+
+# Patch management
+Important for security.
+- Operating systems
+- Applications
+- Firmware
+
+# Account management
+Manage accounts.
+Least privilege principle - Limit user permissions.

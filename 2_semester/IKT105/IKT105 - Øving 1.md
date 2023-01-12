@@ -1,4 +1,5 @@
 - [ ] Øving 1 (gruppe) 📅 2023-01-28
+- [ ] 
 
 
 ## Oppgavetekst:

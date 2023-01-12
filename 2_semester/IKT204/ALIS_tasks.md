@@ -4,4 +4,5 @@
 
 ## Møter i redaksjonskomiteen for alis.no
 - [ ] Møte i redaksjonskomiteen for alis.no. mandag 17. april 2023 10:00-11:00 ⏳ 2023-01-12
-- [ ] mandag 17. april 2023 10:00-11:00 📅 2023-04-17
+- [ ] Møte red.kom. alis.no mandag 17. april 2023 10:00-11:00 📅 2023-04-17
+- [ ] |

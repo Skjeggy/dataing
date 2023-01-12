@@ -34,11 +34,11 @@ Attributter - en tabell har flere attributter.  En kolonneoverskrift.
 
 
 
-| Fornavn | Etternavn | Ansatt dato | Lønn    | Stilling | Prosjektkode | Timer |
-| ------- | --------- | ----------- | ------- | -------- | ------------ | ----- |
-| Hans    | Hansen    | 23.08.2006  | 325.000 | 1002     | 44           |       |
-|         |           |             |         | 1007     | 25           |       |
-|         |           |             |         | 1012     | 10           |       |
+| Fornavn | Etternavn | Ansatt dato | Lønn    | Stilling     | Prosjektkode | Timer |
+| ------- | --------- | ----------- | ------- | ------------ | ------------ | ----- |
+| Hans    | Hansen    | 23.08.2006  | 325.000 | Programmerer | 1002         | 44    |
+|         |           |             |         |              | 1007         | 25    |
+|         |           |             |         |              | 1012         | 10    |
 
 
 

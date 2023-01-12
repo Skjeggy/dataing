@@ -32,6 +32,11 @@ To be announced.
 https://www.raspberrypi.org/
 https://www.arduino.cc/
 
+Part list: [https://www.adafruit.com/product/2975](https://www.adafruit.com/product/2975 "https://www.adafruit.com/product/2975") 
+Board documentation: [https://no.mouser.com/datasheet/2/389/b-l475e-iot01a-1848022.pdf](https://no.mouser.com/datasheet/2/389/b-l475e-iot01a-1848022.pdf "https://no.mouser.com/datasheet/2/389/b-l475e-iot01a-1848022.pdf") Board Pinout: [https://os.mbed.com/platforms/B-L4S5I-IOT01A/](https://os.mbed.com/platforms/B-L4S5I-IOT01A/ "https://os.mbed.com/platforms/B-L4S5I-IOT01A/") 
+Board simulator: [https://simulator.mbed.com/](https://simulator.mbed.com/ "https://simulator.mbed.com/") 
+Resistor Color code: [https://www.digikey.no/en/resources/conversion-calculators/conversion-calculator-resistor-color-code](https://www.digikey.no/en/resources/conversion-calculators/conversion-calculator-resistor-color-code "https://www.digikey.no/en/resources/conversion-calculators/conversion-calculator-resistor-color-code")
+
 ## Kjøp utstyr
 https://no.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=af029b0b70
 

@@ -4,6 +4,12 @@ Vurdering: chill, mappevurdering.
 
 Ingen forelesning og ingen eksamer. Det er bare å bestå Quiz. De kommer etterhvert med frister. Total 6. Forelesning er alt på modul. På oppgaver ligger det øvinger fra boka. Må skaffe bok. Thi har denne. 
 
+>"Jeg har ikke lyst til å være her, dere har ikke lyst til å være her. Vi dropper forelsning."
+
+\- Foreleseren.
+
+Forrige år hadde de Sodoku. Eksamen var copy paste fra forrige år og quizzene.  
+
 
 ## Eksamen
 

@@ -25,6 +25,10 @@ Referanser ikke viktig. Kan skrive hvor vi fant ting, men fancy referanser ikke 
 # Viktige avklaringer
 1. Mulig å tilpasse godkjenning av øvinger. Da slik at Thi kan få godkjent øvingen på vegne av gruppen. Må da sende mail til Halvard i forkant av dette med info om hvem vi er (gruppe 6). 
 2. Kildebruk. Ikke viktig i dette faget. Her er det praktisk fokus og forståelse som er viktig. Trenger derfor ikke ha fokus på kilder. 
+3. Det blir ingen streaming av forelesninger, men fjorårets forelesninger er lagt ut. Dette er for å stimulere til oppmøte. Dette kan endre seg mot slutten av kurset. 
+4. Det virker til å være stor velvilje til å møte studenter med tilpasninger dersom de jobber o.l., men dette kan ikke gjøres på generell basis. Dvs vi må spørre om det privat :) 
+
+For få folk som sitter i fadderstyret i Grimstad. Mulig oppgave til Thi ? 
 
 # Oversikter
 [[Begreper]]

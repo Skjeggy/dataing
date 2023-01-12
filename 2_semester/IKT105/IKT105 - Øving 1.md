@@ -1,5 +1,5 @@
 - [ ] Øving 1 (gruppe) 📅 2023-01-28
-- [ ] 
+- [ ] Se gjennom øving 1, klar for levering ? 📅 2023-01-12
 
 
 ## Oppgavetekst:

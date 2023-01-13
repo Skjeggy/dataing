@@ -12,7 +12,7 @@ The founder of ransomware, Joseph Popp, originally created a Trojan with a ranso
 In modern times, the use of ransomware has exploded with a 600% increase ransomware "families" betewen 2013 and 2018. The internet has created a target rich environment and an easy attack vector for such malware. Furthermore, encryption software has lowered the entry skills required and cryptocurrencies provide easy and anonymous payment methods to the advantage of the attacker. There is also the fact that most businesses, organizations and people now store their data electronically [[@okaneEvolutionRansomware2018]]
 
 # Ransomware in healthcare
-A major turning point for healthcare was in 2016 when the Hollywood Presbyterian Medical Center was targeted by ransomware and ended up paying $17,000 to restore its data. The same year, 44% of all healthcare related cyber incidents were caused by ransomware. 
+A major turning point for healthcare was in 2016 when the Hollywood Presbyterian Medical Center was targeted by ransomware and ended up paying $17,000 to restore its data. The same year, 44% of all healthcare related cyber incidents were caused by ransomware. Later in 2017, the Wannacry ransomware worm ended up shutting down several UK hospitals and  
 
 
 [[@wassermanHospitalCybersecurityRisks2022]]

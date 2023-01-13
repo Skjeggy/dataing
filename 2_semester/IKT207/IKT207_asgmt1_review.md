@@ -33,3 +33,7 @@ Foreslå tema inn i chatten.
 
 [[Medical hacking]] - 
 - 
+
+
+
+## Ransomware - definsjon.

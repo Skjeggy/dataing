@@ -18,6 +18,9 @@ In modern times, the use of ransomware has exploded with a 600% increase ransomw
 
 
 
+
+
+
 # Mitigation
 In the early stages of an attack, removal of the malware can stop further damage to the data.
 

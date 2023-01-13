@@ -13,4 +13,11 @@ Gives a consistent language around system configurations.
 ## Common Platform Enumeration (CPE)
 Same thing for product names and versions. 
 
-## Common Vulnerabilities and Ex
+## Common Vulnerabilities and Exposures (CVE)
+Same thing for vulnerabilities.
+
+## XCCDF (Extensible Configuration Checklist Description Format)
+Same thing for checklists and processing them. 
+
+## Open Vulnerability and Assesment Language
+Describes testing procedures in a programmatic fashion.

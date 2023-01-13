@@ -35,7 +35,8 @@ Foreslå tema inn i chatten.
 
 
 ## Eget
-Malwa
+[[Utkast til asgm1]]
+
 
 
 ## Ransomware

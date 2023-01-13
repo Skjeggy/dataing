@@ -35,7 +35,7 @@ Foreslå tema inn i chatten.
 
 
 ## Eget
-Ransomware is 
+Malwa
 
 
 ## Ransomware

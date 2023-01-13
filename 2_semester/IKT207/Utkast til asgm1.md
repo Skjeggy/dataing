@@ -9,10 +9,7 @@ Ransomware is a type of malware that aims to encrypt a victim's files in such a 
 # A brief history of ransomware
 The founder of ransomware, Joseph Popp, originally created a Trojan with a ransomware called "AIDS" in 1989. He used a floppy disc as an attack vector and after it encrypted the victim's C: drive, it demanded 189 USD to be sent to a postbox in Panama. There were a number of problems with this, including a low number of reachable victims, a weak infection method, a weak encryption and the payment method.  Safe to say, the world has moved on since then. 
 
-In modern times, the use of ransomware has exploded. 
-
-
-The internet has created a target rich environment and an easy attack vector. Furthermore, encryption software has lowered the entry skills required and cryptocurrencies provide easy and anonymous payment methods to the advantage of the attacker. There is also the fact that most businesses and organizations store their data electronically
+In modern times, the use of ransomware has exploded with a 600% increase ransomware "families" betewen 2013 and calling it one of the more common attack trends . The internet has created a target rich environment and an easy attack vector for such malware. Furthermore, encryption software has lowered the entry skills required and cryptocurrencies provide easy and anonymous payment methods to the advantage of the attacker. There is also the fact that most businesses, organizations and people now store their data electronically [[@okaneEvolutionRansomware2018]]
 
 
 ## Growth in healthcare

@@ -11,8 +11,8 @@ The founder of ransomware, Joseph Popp, originally created a Trojan with a ranso
 
 In modern times, the use of ransomware has exploded with a 600% increase ransomware "families" betewen 2013 and 2018. The internet has created a target rich environment and an easy attack vector for such malware. Furthermore, encryption software has lowered the entry skills required and cryptocurrencies provide easy and anonymous payment methods to the advantage of the attacker. There is also the fact that most businesses, organizations and people now store their data electronically [[@okaneEvolutionRansomware2018]]
 
-# Growth in healthcare
-
+# Ransomware in healthcare
+A major turning Point 
 
 
 [[@wassermanHospitalCybersecurityRisks2022]]

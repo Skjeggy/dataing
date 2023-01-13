@@ -15,9 +15,11 @@ In modern times, the use of ransomware has exploded.
 The internet has created a target rich environment and an easy attack vector. Furthermore, encryption software has lowered the entry skills required and cryptocurrencies provide easy and anonymous payment methods to the advantage of the attacker. There is also the fact that most businesses and organizations store their data electronically
 
 
-## Criminals
-
 ## Growth in healthcare
+2016 
+
+
+
 
 
 # Mitigation

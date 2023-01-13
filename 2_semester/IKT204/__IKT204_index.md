@@ -11,6 +11,12 @@ I følge Thi ble det ved hennes forrige eksamen brukt spørsmål (og svar) fra [
 [[_IKT204_begreper]]
 
 
+## Livestream
+https://www.uia.no/live/emne/ikt204
+
+## Opptak av forelsninger
+Ja, tilgjengelig på Canvas.
+
 ## Oppgaver:
 
 ### Module 1

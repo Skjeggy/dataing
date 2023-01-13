@@ -31,6 +31,8 @@ Modules 1, 2 and 4 also contain a practical exercise. They are designed to give 
 - [[Common attacks]]
 - [[Understanding vulnerability types]]
 - [[Vulnerability Scanning]]
+- [[Penetration testing and excercises]]
+- 
 - 
 # Oppgaver
 

@@ -5,8 +5,13 @@ https://www.upi.com/Health_News/2022/06/01/medical-devices-pacemakers-cybersecur
 Ransomware kan være aktuelt å skrive om, da det påvirker låser ned journaler og kan låse ned medisinsk utstyr.
 
 
+Forresten - spørsmål om gyldige topics. 
+Jeg kunne godt tenkt meg å skrevet om 
+
 ## Systematic reviews:
 
+
+[[Coventry_2018|Cybersecurity in healthcare: a narrative review of trends]]
 [Cybersecurity in healthcare: A narrative review of trends, threats and ways forward.](https://www.semanticscholar.org/paper/925ad0ef41b6ec5f4f72390b5002444be3a1b247)
 
 [Cybersecurity in healthcare: A systematic review of modern threats and trends 2017](https://pubmed.ncbi.nlm.nih.gov/27689562/)

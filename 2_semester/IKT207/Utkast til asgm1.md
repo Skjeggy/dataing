@@ -7,7 +7,9 @@ Ransomware is a type of malware that aims to encrypt a victim's files in such a 
 
 
 # A brief history of ransomware
-The founder of ransomware, Joseph Popp, originally created a Trojan with a ransomware called "AIDS" in 1989. He used a floppy disc as an attack vector and after it encrypted the victim's C: drive, it demanded 189 USD to be sent to p
+The founder of ransomware, Joseph Popp, originally created a Trojan with a ransomware called "AIDS" in 1989. He used a floppy disc as an attack vector and after it encrypted the victim's C: drive, it demanded 189 USD to be sent to a postbox in Panama. There were a number of problems with this, including a low number of reachable victims, a weak infection method, a weak encryption and the payment method.  Safe to say, the world has moved on since then. 
+
+In modern times, the use of ransomware has exploded. With the internet creating a target rich environment and an easy attack vector, encryption software lowering the entry skills required and cry
 
 
 ## Criminals

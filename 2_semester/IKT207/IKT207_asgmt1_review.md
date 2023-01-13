@@ -39,3 +39,6 @@ Foreslå tema inn i chatten.
 ## Ransomware - definsjon.
 ### [A survey on **ransomware**: Evolution, taxonomy, and defense solutions](https://dl.acm.org/doi/abs/10.1145/3514229?casa_token=NJsjjTg5qPIAAAAA:ZGu04AVy6WM7yT2-FL4n-xtMpHUwN6RSLZ7dNp89SuB6RTHL8xXyqgR9Zgduno8m7nnmbq3uDTM)
 
+(chatgpt)
+Ransomware is a type of malicious software (malware) that encrypts a victim's files. The attacker then demands a ransom payment in exchange for the decryption key to restore access to the files. Ransomware can be delivered through phishing emails, infected software downloads, or exploit kits. Once the malware is activated on the victim's computer, it begins to encrypt files and may also display a message or a webpage that demands payment in exchange for the decryption key. Ransomware attacks can cause significant disruptions and financial losses for individuals and organizations.
+

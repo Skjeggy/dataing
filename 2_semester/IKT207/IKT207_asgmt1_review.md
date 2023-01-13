@@ -37,3 +37,5 @@ Foreslå tema inn i chatten.
 
 
 ## Ransomware - definsjon.
+### [A survey on **ransomware**: Evolution, taxonomy, and defense solutions](https://dl.acm.org/doi/abs/10.1145/3514229?casa_token=NJsjjTg5qPIAAAAA:ZGu04AVy6WM7yT2-FL4n-xtMpHUwN6RSLZ7dNp89SuB6RTHL8xXyqgR9Zgduno8m7nnmbq3uDTM)
+

@@ -1,6 +1,7 @@
-- [ ] Øving 1 (gruppe) 📅 2023-01-28
-- [ ] Se gjennom øving 1, klar for levering ? 📅 2023-01-12
+- [x] Øving 1 (gruppe) 📅 2023-01-28 ✅ 2023-01-13
+- [x] Se gjennom øving 1, klar for levering ? 📅 2023-01-12 ✅ 2023-01-13
 
+Status: Godkjent
 
 ## Oppgavetekst:
 

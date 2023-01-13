@@ -41,7 +41,7 @@ For få folk som sitter i fadderstyret i Grimstad. Mulig oppgave til Thi ?
 
 ## Gruppeoppgaver - IKT_DB_Lab 6
 
-- [[IKT105 - Øving 1]]
+- [[IKT105 - Øving 1]] - GODKJENT
 - [[IKT105 - Øving 2]]
 - [[IKT105 - Øving 3]]
 - [[IKT105 - Øving 4]]

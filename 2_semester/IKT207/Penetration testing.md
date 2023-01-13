@@ -37,4 +37,4 @@ Exploiting a vulnerability in one system to reach another system.
 Installing backdoors to gain access at a later point.
 
 ## Clean up
-Clean up to prevent getting t
+Clean up to prevent getting traced or to prevent security to see what has been done etc. 

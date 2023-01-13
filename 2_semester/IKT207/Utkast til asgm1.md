@@ -15,7 +15,7 @@ In modern times, the use of ransomware has exploded with a 600% increase ransomw
 
 
 
-
+[[@wassermanHospitalCybersecurityRisks2022]]
 
 
 

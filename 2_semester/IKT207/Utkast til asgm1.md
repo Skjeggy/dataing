@@ -2,8 +2,8 @@
 ![[IKT207_asgmt1_review#Definisjon (chatgpt - about ransomware)]]
 
 
-# Introduction
-
+# Introduction - what is ransomware
+Ransomware is a type of malware that aims to encrypt a victim's files in such a way that their computer, or access to their files, is disabled. A message is then displayed, serving as the 
 
 
 ## Criminals

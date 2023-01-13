@@ -6,6 +6,9 @@
 Ransomware is a type of malware that aims to encrypt a victim's files in such a way that their computer, or access to their files, is disabled. A message is then displayed, serving as the ransom note, giving detailed instruction as to how the victim can retrieve their computer or files. Usually this is done by paying a ransom to the criminals behind the attack. [[@okaneEvolutionRansomware2018]]
 
 
+# A brief history of ransomware
+The founder of ransomware, Joseph Popp, originally created a Trojan with a ransomware called "AIDS" in 1989. He used a floppy disc as an attack vector and after it encrypted the victim's C: drive, it demanded 189 USD to be sent to p
+
 
 ## Criminals
 

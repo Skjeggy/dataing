@@ -1,5 +1,5 @@
 ---
-alias: Cybersecurity in healthcare: a narrative review of trends, threats and ways forward
+alias: "Cybersecurity in healthcare: a narrative review of trends, threats and ways forward"
 ---
 
 # Cybersecurity in healthcare: a narrative review of trends, threats and ways forward

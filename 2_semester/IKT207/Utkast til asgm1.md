@@ -3,7 +3,7 @@
 
 
 # Introduction - what is ransomware
-Ransomware is a type of malware that aims to encrypt a victim's files in such a way that their computer, or access to their files, is disabled. A message is then displayed, serving as the 
+Ransomware is a type of malware that aims to encrypt a victim's files in such a way that their computer, or access to their files, is disabled. A message is then displayed, serving as the ransom note, giving detailed instruction as to how the victim can retrieve their computer or files. Usually this is by paying a ransom 
 
 
 ## Criminals

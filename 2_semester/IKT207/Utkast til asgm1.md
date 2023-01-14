@@ -18,8 +18,10 @@ The consequences for the healthcare industry are serious. The financial costs of
 ## Why is healthcare especially vulnerable? 
 There are several vulnerabilities in healthcare systems that are important to highlight. Interoperability leads to more potential infiltration points. Out-of-date systems, commonly seen in healthcare, also serve as major vulnerabilities. A lack of resources (money, staff and expertise) and a focus on medical care and not cybersecurity does not help the situation. There is also a need for constant accessibility in healthcare, which serves as both a vulnerability and increases the probability that the ransom is paid due to urgent demand for access to the medical data.  Lastly, there is the threat from within. Unaware employees clicking phishing links or failing to adhere to cybersecurity protocols make up a significant part of enabling attacks.  
 
-In a Norwegian context, HelseCERT reports that 
-However, all hope is not lost. According to a report from HelseCERT from 2022
+As far as Norway is concerned, a report from HelseCERT in 2022 considers it highly probable 
+
+In a Norwegian context, HelseCERT reports that it is highly probable that the Norwegian healthcare industry will be targeted by economically motivated attacks and that it is possible that it will affect patient care.
+
 
 [[utkast 2]]
 

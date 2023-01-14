@@ -15,14 +15,18 @@ In modern times, the use of ransomware has exploded with a 600% increase ransomw
 A major turning point for healthcare was in 2016 when the Hollywood Presbyterian Medical Center was targeted by ransomware and ended up paying $17,000 to restore its data. The same year, 44% of all healthcare related cyber incidents were caused by ransomware. Later in 2017, the WannaCry ransomware worm that takes advantage of the EternalBlue exploit, ended up shutting down several UK hospitals [[@wassermanHospitalCybersecurityRisks2022]] + (hold the line). In 2020, the allegedly first death caused by a ransomware attack occurred in Germany (wired artikkelen). 
 
 ## Consequences 
-The consequences for the healthcare industry are serious. The financial costs of data breaches in healthcare were estimated to be on average worldwide $7.13 million in 2020, compared to $3.86 million as the world average for all industries worldwide. It has also been estimated that 21% of 
+The consequences for the healthcare industry are serious. The financial costs of data breaches in healthcare were estimated to be on average worldwide $7.13 million in 2020, compared to $3.86 million as the world average for all industries worldwide. 
 
-ranging from financial costs ($7.13 million on average worldwide in 2020) and loss of reputation and trust to loss of data and physical harm. Patient data 
+### loss of data
+It has also been estimated that 21% of attacks cause data breaches
 
 
 [[@wassermanHospitalCybersecurityRisks2022]]
 
+## Why is healthcare especially vulnerable? 
 
+
+![[Pasted image 20230114130518.png]]
 
 
 

@@ -28,7 +28,7 @@ Finally, there are consequences related to decreased trust among patients and ph
 [[@wassermanHospitalCybersecurityRisks2022]]
 
 ## Why is healthcare especially vulnerable? 
-There are several vulnerabilities in healthcare systems that are important to highlight. Interoperabli
+There are several vulnerabilities in healthcare systems that are important to highlight. Interoperability, or the ability to share data between hospitals and other care providers, leads to more potential infiltration points. Out-of-date and unsupported operating systems and other systems, commonly seen in healthcare, also serve as major vulnerabilities. 
 
 
 

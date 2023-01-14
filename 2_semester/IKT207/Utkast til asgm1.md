@@ -28,9 +28,11 @@ Finally, there are consequences related to decreased trust among patients and ph
 [[@wassermanHospitalCybersecurityRisks2022]]
 
 ## Why is healthcare especially vulnerable? 
-There are several vulnerabilities in healthcare systems that are important to highlight. Interoperability, or the ability to share data between hospitals and other care providers, leads to more potential infiltration points. Out-of-date and unsupported operating systems and other systems, commonly seen in healthcare, also serve as major vulnerabilities. Furthermore, the focus in health organizations is understandibly often on medical care and not cybersecurity. This, combined with a lack of resources (money, staff and expertise) provide several vulnerabilities to be exploited.
+There are several vulnerabilities in healthcare systems that are important to highlight. Interoperability, or the ability to share data between hospitals and other care providers, leads to more potential infiltration points. Out-of-date and unsupported operating systems and other systems, commonly seen in healthcare, also serve as major vulnerabilities. Furthermore, the focus in health organizations is understandably often on medical care and not cybersecurity. This, combined with a lack of resources (money, staff and expertise) provide several vulnerabilities to be exploited.
 
-Practicing modern healthcare also requires a constant accessibility, both creating a vulnerability in terms of a constantly "open" network and increasing the probability that healthcare organizations will pay the ransom just to 
+Practicing modern healthcare also requires a constant accessibility, both creating a vulnerability in terms of a constantly "open" network and increasing the probability that healthcare organizations will pay the ransom because of the urgent need for access to the data. 
+
+Lastly, there is the threat from within. Unaware employees clicking phishing links or failing to adhere to cybersecurity protocols make up a significant part of enabling attacks. 
 
 
 

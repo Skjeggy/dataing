@@ -35,7 +35,6 @@ Practicing modern healthcare also requires a constant accessibility, both creati
 Lastly, there is the threat from within. Unaware employees clicking phishing links or failing to adhere to cybersecurity protocols make up a significant part of enabling attacks. 
 
 
-
 ![[Pasted image 20230114130518.png]]
 
 

@@ -5,8 +5,6 @@
 # Introduction - what is ransomware
 Ransomware is a type of malware that aims to encrypt a victim's files in such a way that their computer, or access to their files, is disabled. A message is then displayed, serving as the ransom note, giving detailed instruction as to how the victim can retrieve their computer or files. Usually this is done by paying a ransom to the criminals behind the attack. [[@okaneEvolutionRansomware2018]]
 
-The founder of ransomware, Joseph Popp, originally created a Trojan with a ransomware called "AIDS" in 1989. He used a floppy disc as an attack vector and after it encrypted the victim's C: drive, it demanded 189 USD to be sent to a postbox in Panama. There were a number of problems with this, including a low number of reachable victims, a weak infection method, a weak encryption and the payment method.  Safe to say, the world has moved on since then. 
-
 In modern times, the use of ransomware has exploded with a 600% increase ransomware "families" between 2013 and 2018. The internet has created a target rich environment and an easy attack vector for such malware. Furthermore, encryption software has lowered the entry skills required and cryptocurrencies provide easy and anonymous payment methods to the advantage of the attacker. There is also the fact that most businesses, organizations and people now store their data electronically. [[@okaneEvolutionRansomware2018]]
 
 # Ransomware in healthcare
@@ -18,11 +16,9 @@ The consequences for the healthcare industry are serious. The financial costs of
 [[@wassermanHospitalCybersecurityRisks2022]]
 
 ## Why is healthcare especially vulnerable? 
-There are several vulnerabilities in healthcare systems that are important to highlight. Interoperability leads to more potential infiltration points. Out-of-date systems, commonly seen in healthcare, also serve as major vulnerabilities. Furthermore, the focus in health organizations is understandably often on medical care and not cybersecurity. This, combined with a lack of resources (money, staff and expertise) provide several vulnerabilities to be exploited.
+There are several vulnerabilities in healthcare systems that are important to highlight. Interoperability leads to more potential infiltration points. Out-of-date systems, commonly seen in healthcare, also serve as major vulnerabilities. A lack of resources (money, staff and expertise) and a focus on medical care and not cybersecurity does not help the situation. There is also a need for constant accessibility in healthcare, which serves as both a vulnerability and increases the probability that the ransom is paid due to urgent demand for access to the medical data.  Lastly, there is the threat from within. Unaware employees clicking phishing links or failing to adhere to cybersecurity protocols make up a significant part of enabling attacks.  
 
-There is also a need for constant accessibility in healthcare, which serves as both a vulnerability and increases the probability that the ransom is paid due to urgent demand for access to the medical data. 
-
-Lastly, there is the threat from within. Unaware employees clicking phishing links or failing to adhere to cybersecurity protocols make up a significant part of enabling attacks.  
+However, all hope is not lost. According to HelseCERT
 
 
 
@@ -69,3 +65,7 @@ It is possible to use tools for decrypting and recovering files through software
 ## Helsecert Situasjonsrapport 2022
 https://github.com/helsecert/Situasjonsbilde/blob/main/HelseCERT%20situasjonsbilde%202022.pdf
 
+
+
+
+The founder of ransomware, Joseph Popp, originally created a Trojan with a ransomware called "AIDS" in 1989. He used a floppy disc as an attack vector and after it encrypted the victim's C: drive, it demanded 189 USD to be sent to a postbox in Panama. There were a number of problems with this, including a low number of reachable victims, a weak infection method, a weak encryption and the payment method.  Safe to say, the world has moved on since then. 

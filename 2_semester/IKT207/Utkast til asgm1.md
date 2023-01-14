@@ -14,10 +14,8 @@ In modern times, the use of ransomware has exploded with a 600% increase ransomw
 # Ransomware in healthcare
 A major turning point for healthcare was in 2016 when the Hollywood Presbyterian Medical Center was targeted by ransomware and ended up paying $17,000 to restore its data. The same year, 44% of all healthcare related cyber incidents were caused by ransomware. Later in 2017, the WannaCry ransomware worm that takes advantage of the EternalBlue exploit, ended up shutting down several UK hospitals [[@wassermanHospitalCybersecurityRisks2022]] + (hold the line). In 2020, the allegedly first death caused by a ransomware attack occurred in Germany (wired artikkelen). 
 
-The consequences for the hospitals are serious, ranging from financial costs and loss of reputation and trust to loss of data and physical harm.
-
 ## Consequences 
-
+The consequences for the hospitals are serious, ranging from financial costs and loss of reputation and trust to loss of data and physical harm. Patient data 
 
 
 [[@wassermanHospitalCybersecurityRisks2022]]

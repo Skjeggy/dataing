@@ -17,8 +17,8 @@ A major turning point for healthcare was in 2016 when the Hollywood Presbyterian
 ## Consequences 
 The consequences for the healthcare industry are serious. The financial costs of data breaches in healthcare were estimated to be on average worldwide $7.13 million in 2020, compared to $3.86 million as the world average for all industries worldwide. 
 
-### loss of data
-It has also been estimated that 21% of attacks cause data breaches
+### Loss of data
+It has also been estimated that 21% of attacks cause data breaches. The problem with these breaches is that medical data cannot simply be "reset". It is also possible to sell the data to other malicious actors, even when decrypting it. Once access is gained by attackers, they can also install malware to keep the systems infected for future attacks. Even paying the ransom does not guara
 
 
 [[@wassermanHospitalCybersecurityRisks2022]]

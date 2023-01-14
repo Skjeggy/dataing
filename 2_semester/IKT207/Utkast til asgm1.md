@@ -55,3 +55,9 @@ A good backup is important for protecting against ransomware. For this reason, t
 ## File decryption and recovery
 
 It is possible to use tools for decrypting and recovering files through software such as https://www.nomoreransom.org/en/index.html suggested by Nettvett.no.
+
+
+
+## Helsecert Situasjonsrapport 2022
+https://github.com/helsecert/Situasjonsbilde/blob/main/HelseCERT%20situasjonsbilde%202022.pdf
+

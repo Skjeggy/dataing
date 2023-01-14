@@ -15,10 +15,15 @@ In modern times, the use of ransomware has exploded with a 600% increase ransomw
 A major turning point for healthcare was in 2016 when the Hollywood Presbyterian Medical Center was targeted by ransomware and ended up paying $17,000 to restore its data. The same year, 44% of all healthcare related cyber incidents were caused by ransomware. Later in 2017, the WannaCry ransomware worm that takes advantage of the EternalBlue exploit, ended up shutting down several UK hospitals [[@wassermanHospitalCybersecurityRisks2022]] + (hold the line). In 2020, the allegedly first death caused by a ransomware attack occurred in Germany (wired artikkelen). 
 
 ## Consequences 
-The consequences for the healthcare industry are serious. The financial costs of data breaches in healthcare were estimated to be on average worldwide $7.13 million in 2020, compared to $3.86 million as the world average for all industries worldwide. 
+
+### Financial
+The consequences for the healthcare industry are serious. The financial costs of data breaches in healthcare were estimated to be on average worldwide $7.13 million in 2020, compared to $3.86 million as the world average for all industries worldwide. Reputantion
 
 ### Loss of data
-It has also been estimated that 21% of attacks cause data breaches. The problem with these breaches is that medical data cannot simply be "reset". It is also possible to sell the data to other malicious actors, even when decrypting it. Once access is gained by attackers, they can also install malware to keep the systems infected for future attacks. Even paying the ransom does not guara
+It has also been estimated that 21% of attacks cause data breaches. The problem with these breaches is that medical data cannot simply be "reset". It is also possible to sell the data to other malicious actors, even when decrypting it. This makes the data permanently compromised. In addition, once access is gained by attackers they can  install malware to keep the systems infected for future attacks. Even paying the ransom does not guarantee a return of the data. 
+
+### Reputation and physical harm
+Finally, there are consequences related to decreased trust among patients and physical harm caused to them. As seen above, ransomware attacks can be deadly to patients.  
 
 
 [[@wassermanHospitalCybersecurityRisks2022]]

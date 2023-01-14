@@ -5,8 +5,6 @@
 # Introduction - what is ransomware
 Ransomware is a type of malware that aims to encrypt a victim's files in such a way that their computer, or access to their files, is disabled. A message is then displayed, serving as the ransom note, giving detailed instruction as to how the victim can retrieve their computer or files. Usually this is done by paying a ransom to the criminals behind the attack. [[@okaneEvolutionRansomware2018]]
 
-
-# A brief history of ransomware
 The founder of ransomware, Joseph Popp, originally created a Trojan with a ransomware called "AIDS" in 1989. He used a floppy disc as an attack vector and after it encrypted the victim's C: drive, it demanded 189 USD to be sent to a postbox in Panama. There were a number of problems with this, including a low number of reachable victims, a weak infection method, a weak encryption and the payment method.  Safe to say, the world has moved on since then. 
 
 In modern times, the use of ransomware has exploded with a 600% increase ransomware "families" between 2013 and 2018. The internet has created a target rich environment and an easy attack vector for such malware. Furthermore, encryption software has lowered the entry skills required and cryptocurrencies provide easy and anonymous payment methods to the advantage of the attacker. There is also the fact that most businesses, organizations and people now store their data electronically [[@okaneEvolutionRansomware2018]]
@@ -20,7 +18,7 @@ A major turning point for cybersecurity in healthcare was in 2016 when the Holly
 The consequences for the healthcare industry are serious. The financial costs of data breaches in healthcare were estimated to be on average worldwide $7.13 million in 2020, compared to $3.86 million as the world average for all industries worldwide.
 
 ### Loss of data
-It has been estimated that 21% of attacks cause data breaches. The problem with medical data is that it cannot simply be "reset". The data can also be copied and sold to other malicious actors, even when decrypting it for the victim, making it permanently compromised. In addition, once access is gained by attackers they can  install malware to keep the systems infected for future attacks. Even paying the ransom does not guarantee a return of the data. 
+It has been estimated that 21% of attacks cause data breaches. Once access is gained by attackers they can  install malware to keep the systems infected for future attacks. Even paying the ransom does not guarantee a return of the data. 
 
 ### Reputation and physical harm
 Finally, there are consequences related to decreased trust among patients and physical harm caused to them. As seen above, ransomware attacks can at worst be deadly to patients.
@@ -35,7 +33,25 @@ Practicing modern healthcare also requires a constant accessibility, both creati
 Lastly, there is the threat from within. Unaware employees clicking phishing links or failing to adhere to cybersecurity protocols make up a significant part of enabling attacks.  
 
 
+
+
+
+
+
+
+
+
+
+
+
 ![[Pasted image 20230114130518.png]]
+
+
+
+
+
+
+
 
 
 

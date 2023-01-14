@@ -20,7 +20,7 @@ There are several vulnerabilities in healthcare systems that are important to hi
 
 As far as Norway is concerned, a report from HelseCERT in 2022 considers it highly probable 
 
-In a Norwegian context, HelseCERT reports that it is highly probable that the Norwegian healthcare industry will be targeted by economically motivated attacks and that it is possible that it will affect patient care.
+In a Norwegian context, HelseCERT reports that it is highly probable that the Norwegian healthcare industry will be targeted by economically motivated attacks and that it is possible that it will affect patient care. Though there is however a downward trend in terms of critical, high and medium vulnerabilities in Norwegian healthcare, there are
 
 
 [[utkast 2]]

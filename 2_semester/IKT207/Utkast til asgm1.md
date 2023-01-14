@@ -32,7 +32,9 @@ There are several vulnerabilities in healthcare systems that are important to hi
 
 Practicing modern healthcare also requires a constant accessibility, both creating a vulnerability in terms of a constantly "open" network and increasing the probability that healthcare organizations will pay the ransom because of the urgent need for access to the data. 
 
-Lastly, there is the threat from within. Unaware employees clicking phishing links or failing to adhere to cybersecurity protocols make up a significant part of enabling attacks. 
+Lastly, there is the threat from within. Unaware employees clicking phishing links or failing to adhere to cybersecurity protocols make up a significant part of enabling attacks.  
+
+15038195775
 
 
 ![[Pasted image 20230114130518.png]]

@@ -21,6 +21,7 @@ There are several vulnerabilities in healthcare systems that are important to hi
 In a Norwegian context, HelseCERT reports that 
 However, all hope is not lost. According to a report from HelseCERT from 2022
 
+[[utkast 2]]
 
 
 

@@ -59,3 +59,6 @@ Deliverer the following as text in Canvas:
     Navigate to the delivery at [https://tools.uia.no/bitbucket Links to an external site.](https://tools.uia.no/bitbucket)and copy the URL from the browser.
 -   Link to YouTube (or other video service) with video showing each of the requirements.  
     You don't need to show the actual code, just which of the requirements are met.
+
+
+

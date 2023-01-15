@@ -39,5 +39,3 @@ FROM #threat_intelligence
 TABLE definition as "Definition"
 FROM #threat_intelligence AND #vocab 
 ```
-
-

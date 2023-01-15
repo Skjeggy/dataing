@@ -24,7 +24,6 @@ Precomputes hashes.
 
 
 # Password cracking software
-	
 [John the Ripper](https://www.openwall.com/john/)
 
 

@@ -111,8 +111,8 @@ $$ m = \frac{L}{R} \cdot s = \frac{1500 \cdot 8}{20 \cdot 10^{6}} \cdot 2.5 \cdo
 Converting bytes to bit:
 $$ 1500 \: \text{bytes} \cdot 8 = 12000 \: \text{bits}$$
 $$ d_{prop} = \frac{L}{R} = \frac{12000}{(4 \cdot 10^{6})} = 0.003 \: \text{s} = 3 \: \text{ms} $$
-$$ 3 \: \text{ms} + 2 \: \text{ms} = 6 \: \text{ms} $$
-
+$$ \text{Time it takes for packet 1 to arrive} =  2 \: \text{ms} + 3 \: \text{ms} = 5 \: \text{ms} $$
+$$ \text{Time it takes for packet 2 to arrive = 2 \: \text{ms}} $$
 
 ## **Ch. 1.8. (15 points)  
 **Consider a user who needs to upload 1 GB of data to a server, where G is SI standard (base 10) 109 and not binary (base 2) 230 = 10243. The user lives in a small town where only 56 kbps dial-up access is available. A bus visits the small town once a day from the closest city 150 km away and stops in front of the user’s house. The bus has a 100 Mbps Wi-Fi connection. It can collect data from users in rural areas and transfer them to the Internet through a 1 Gbps link once it gets back to the city. Suppose average speed of the bus is 60 km/h.

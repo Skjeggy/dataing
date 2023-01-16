@@ -108,11 +108,19 @@ $$ m = \frac{L}{R} \cdot s = \frac{1500 \cdot 8}{20 \cdot 10^{6}} \cdot 2.5 \cdo
 ![Chapter1_Figure_1.16.PNG](https://files.transtutors.com/book/qimg/a3b868b1-2e82-465e-858e-54da5c20781a.png)
 
 ### Svar
+To know if queuing delay will occur at router A, we would need to inspect the factors that would cause a queuing delay in router A. 
+- Both hosts send 1500 bytes in the direction of router B. 
+- Using link speeds of 4Mbps, the expected arrival times of the packets would be 3ms. (1500 * 8 to turn to bits, divide by 4,000,000 Mb/s to get seconds and then multiply by 1000 to get milliseconds). 
+- One link has a propagation delay of 2ms and the other has a propagation delay of 3ms. This means that the first packets of data arrive after 5ms and the next packets of data arrive after 6ms.
+- According to p.64 of the textbook, processing delay typically has values on the order of microseconds or less. Since the difference in time between the two arrival times of the packets of data are of the order of milliseconds and milliseconds are much larger than microseconds, it means that the first set of packets should finish processing well before the second set arrives. Therefore, there will be no queuing delay occurring at router A.
+
 Converting bytes to bit:
 $$ 1500 \: \text{bytes} \cdot 8 = 12000 \: \text{bits}$$
 $$ d_{prop} = \frac{L}{R} = \frac{12000}{(4 \cdot 10^{6})} = 0.003 \: \text{s} = 3 \: \text{ms} $$
 $$ \text{Time it takes for packet 1 to arrive} =  2 \: \text{ms} + 3 \: \text{ms} = 5 \: \text{ms} $$
-$$ \text{Time it takes for packet 2 to arrive = 2 \: \text{ms}} $$
+$$ \text{Time it takes for packet 2 to arrive} = 3 \: \text{ms} + 3 \: \text{ms} = 6 \: \text{ms} $$
+
+Since the difference in time between the two arrival times of the packets of data are of the order of milliseconds and milliseconds are much larger than microseconds, it means that the first set of packets should finish processing well before the second set arrives. Therefore, there will be no queuing delay occurring at router A.
 
 ## **Ch. 1.8. (15 points)  
 **Consider a user who needs to upload 1 GB of data to a server, where G is SI standard (base 10) 109 and not binary (base 2) 230 = 10243. The user lives in a small town where only 56 kbps dial-up access is available. A bus visits the small town once a day from the closest city 150 km away and stops in front of the user’s house. The bus has a 100 Mbps Wi-Fi connection. It can collect data from users in rural areas and transfer them to the Internet through a 1 Gbps link once it gets back to the city. Suppose average speed of the bus is 60 km/h.

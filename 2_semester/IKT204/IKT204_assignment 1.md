@@ -15,8 +15,8 @@ Store-and-forward packet switching.
 
 What is the total end-to-end delay to send a packet of length L ?
 
-$$ d_{\text{end to end}} = N \cdot \frac{L}{} $$
-e
+$$ d_{\text{end to end}} = N \cdot \frac{L}{R} $$
+Where d = delay, N = number of links, L = number of bits in packets and R = rate. 
 $$\text{Total end-to-end delay} = \frac{L}{R_1} + \frac{L}{R_2}  $$
 
 ## Ch. 1.2. (15 points) 
@@ -106,6 +106,12 @@ $$ m = \frac{L}{R} \cdot s = \frac{1500 \cdot 8}{20 \cdot 10^{6}} \cdot 2.5 \cdo
 **Consider the network illustrated in Figure 1.16. Assume the two hosts on the left of the figure start transmitting packets of 1500 bytes at the same time towards Router B. Suppose the link rates between the hosts and the Router A is 4 Mbps, where M is SI standard (base 10) 106 and not binary (base 2) 220 = 10242. One link has a 2 milliseconds propagation delay and the other has a 3 milliseconds propagation delay. Link rate between Router A and Router B is 100 Mbps. Assume neglectable processing delay at Router A (**_dprocRouterA_ ≈ 0**) and its outbound queue towards Router B is currently empty. Will queuing delay occur in Router A? Support your answer with calculations.
 
 ![Chapter1_Figure_1.16.PNG](https://files.transtutors.com/book/qimg/a3b868b1-2e82-465e-858e-54da5c20781a.png)
+
+### Svar
+Amount of bytes = 1500 * 8 = 12000
+
+$$ \frac{12000}{} $$
+
 
 ## **Ch. 1.8. (15 points)  
 **Consider a user who needs to upload 1 GB of data to a server, where G is SI standard (base 10) 109 and not binary (base 2) 230 = 10243. The user lives in a small town where only 56 kbps dial-up access is available. A bus visits the small town once a day from the closest city 150 km away and stops in front of the user’s house. The bus has a 100 Mbps Wi-Fi connection. It can collect data from users in rural areas and transfer them to the Internet through a 1 Gbps link once it gets back to the city. Suppose average speed of the bus is 60 km/h.

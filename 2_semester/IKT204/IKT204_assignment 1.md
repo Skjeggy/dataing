@@ -27,7 +27,8 @@ What are the five layers in the Internet protocol stack? What are the principal 
 What do encapsulation and de-encapsulation mean? Why are they needed in a layered protocol stack?
 
 ### Svar
-[[Encapsulation and dencapsulatioon]]
+![[Encapsulation and dencapsulatioon#Svar]]
+
 
 ## Ch. 1.4. (10 points)
 **Which layers in the Internet protocol stack does a router process? Which layers does a link-layer switch process? Which layers does a host process?

@@ -94,7 +94,7 @@ The first bit has reached Host B.
 ### **g)** Suppose **_s_** = 2.5 **.** 108 m/s, **_L_** = 1500 bytes, and **_R_** = 20 Mbps, where M is SI standard (base 10) 106 and not binary (base 2) 220 = 10242. Find the distance **_m_** so that **_d_prop** equals **_d_trans**.
 
 ### Svar
-$$ m = \frac{L}{R} \cdot s = \frac{1500 \cdot 8}{20 \cdot 10^{6}} \cdot 2.5 \cdot 10^{8} =  $$
+$$ m = \frac{L}{R} \cdot s = \frac{1500 \cdot 8}{20 \cdot 10^{6}} \cdot 2.5 \cdot 10^{8} = 150 \: \text{km} $$
 
 ## **Ch. 1.7. (10 points)  
 **Consider the network illustrated in Figure 1.16. Assume the two hosts on the left of the figure start transmitting packets of 1500 bytes at the same time towards Router B. Suppose the link rates between the hosts and the Router A is 4 Mbps, where M is SI standard (base 10) 106 and not binary (base 2) 220 = 10242. One link has a 2 milliseconds propagation delay and the other has a 3 milliseconds propagation delay. Link rate between Router A and Router B is 100 Mbps. Assume neglectable processing delay at Router A (**_dprocRouterA_ ≈ 0**) and its outbound queue towards Router B is currently empty. Will queuing delay occur in Router A? Support your answer with calculations.

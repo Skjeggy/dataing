@@ -79,7 +79,17 @@ $$ d_{modified} = d_{trans} + d_{prop} $$
 ### **d)** Suppose Host A begins to transmit the packet at time **_t_ = 0**. At time **_t_ = _d_trans**, where is the last bit of the packet?  
 
 ### Svar
+A packet can only be transmitted after all the packets have arrived 
 
+Assuming that packets are transmitted in a first-come-first-served manner, as is com-
+mon in packet-switched networks, our packet can be transmitted only after all the
+packets that have arrived before it have been transmitted. Denote the length of the
+packet by L bits, and denote the transmission rate of the link from router A to router
+B by R bits/sec. For example, for a 10 Mbps Ethernet link, the rate is R = 10 Mbps;
+for a 100 Mbps Ethernet link, the rate is R = 100 Mbps. The transmission delay is
+L/R. This is the amount of time required to push (that is, transmit) all of the packet’s
+bits into the link. Transmission delays are typically on the order of microseconds to
+milliseconds in practice.
 
 ### **e)** Suppose **_d_prop** is greater than **_d_trans**. At time **_t_ = _d_trans**, where is the first bit of the packet?  
 

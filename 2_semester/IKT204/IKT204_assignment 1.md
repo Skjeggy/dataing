@@ -132,6 +132,19 @@ Since the difference in time between the two arrival times of the packets of dat
 ### **b)** How long is the upload time when using the bus?  
 ### Svar
 
+$$ \text{The time  taken by **bus** from Users house to **Town** is} = \frac{150 \: km}{60 \: km/h} = 2.5 \: hours = 9000 \: \text{seconds} $$
+Since The users data to be **transmitted** over to the server = 1 GB
+
+$$ 1 \: GB = 1024 \: MB
+1024 \cdot 8 =  
+
+So,
+
+= 1 *1024 MB
+
+= 1024 * 8 Mb
+
+=12288 Mb
 
 ### **c)** What is the fastest way for the user to transfer the data to the server?
 ### Svar

@@ -46,16 +46,32 @@ Sjekk ut https://kopimi.datapor.no/DAT204%20-%20Datakommunikasjon/networkFormula
 ### **a)** Express the propagation delay, **_d_prop**, in terms of **_m_** and **_s_**. 
 
 #### Svar:
-Host A sends a packat of size L (bits) to Host B which is m meters away, using a link of rate R (bps) with propegation speed along the link being s (meters/second). What is the propegation delay in terms of m and s ? 
+Host A sends a packet of size L (bits) to Host B which is m meters away, using a link of rate R (bps) with propagation speed along the link being s (meters/second). What is the propagation delay in terms of m and s ? 
 
-Since the propegation delay is $$ d_\text{prop} = \frac{d}{s} $$ where d is the distance between Host A and Host B, in other words m, and s is the propegation speed of the link, in other words s. Thus,
+Since the propagation delay is $$ d_\text{prop} = \frac{d}{s} $$ where d is the distance between Host A and Host B, in other words m, and s is the propagation speed of the link, in other words s. Thus,
 
 $$ d_\text{prop} = \frac{m}{s} $$
 
 ### **b)** Determine the transmission time of the packet, **_d_trans**, in terms of **_L_** and **_R_**.  
 
+### Svar
+
+L = packet length in bits
+R = link bandwith in bps.
+
+$$ d_{trans} = \frac{L}{R} $$
+
 
 ### **c)** Ignoring processing and queuing delays, obtain an expression for the end-to-end delay.  
+
+### Svar
+$$ d_{total} = d_{nodal} $$
+
+The most important of these delays are the nodal processing delay, queuing delay, transmis-
+sion delay, and propagation delay; together, these delays accumulate to give a total
+nodal delay. 
+
+d(nodal) = d(proc) + d(queue) + d(transe) + d(prop)
 
 
 ### **d)** Suppose Host A begins to transmit the packet at time **_t_ = 0**. At time **_t_ = _d_trans**, where is the last bit of the packet?  

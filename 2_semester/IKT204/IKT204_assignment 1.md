@@ -53,10 +53,20 @@ Since the propegation delay is $$ d_\text{prop} = \frac{d}{s} $$ where d is the 
 $$ d_\text{prop} = \frac{m}{s} $$
 
 ### **b)** Determine the transmission time of the packet, **_d_trans**, in terms of **_L_** and **_R_**.  
+
+
 ### **c)** Ignoring processing and queuing delays, obtain an expression for the end-to-end delay.  
+
+
 ### **d)** Suppose Host A begins to transmit the packet at time **_t_ = 0**. At time **_t_ = _d_trans**, where is the last bit of the packet?  
+
+
 ### **e)** Suppose **_d_prop** is greater than **_d_trans**. At time **_t_ = _d_trans**, where is the first bit of the packet?  
+
+
 ### **f)** Suppose **_d_prop** is less than **_d_trans**. At time **_t_ = _d_trans**, where is the first bit of the packet?  
+
+
 ### **g)** Suppose **_s_** = 2.5 **.** 108 m/s, **_L_** = 1500 bytes, and **_R_** = 20 Mbps, where M is SI standard (base 10) 106 and not binary (base 2) 220 = 10242. Find the distance **_m_** so that **_d_prop** equals **_d_trans**.
 
 ## **Ch. 1.7. (10 points)  

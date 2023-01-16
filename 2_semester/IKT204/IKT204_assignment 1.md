@@ -31,7 +31,9 @@ What do encapsulation and de-encapsulation mean? Why are they needed in a layere
 
 
 ## Ch. 1.4. (10 points)
-**Which layers in the Internet protocol stack does a router process? Which layers does a link-layer switch process? Which layers does a host process?
+**Which layers in the Internet protocol stack does a router process? Which layers does a link-layer switch process? Which layers does a host process?**
+
+
 
 ## *Ch. 1.5. (10 points) 
 **Describe how a botnet can be created, and how it can be used for a DDoS attack.

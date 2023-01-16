@@ -22,6 +22,8 @@ The essay/article should be written in english.
 
 
 # Besvarelse
+## Anna
+[[asgmt1 - Anna - utkast]]
 
 ## Eksempeloppgave fra chatgpt
 [[Eksempeloppgave]]
@@ -37,7 +39,6 @@ Foreslå tema inn i chatten.
 
 ## Eget
 [[Utkast til asgm1]]
-
 
 
 ## Ransomware

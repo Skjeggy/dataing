@@ -129,6 +129,8 @@ Since the difference in time between the two arrival times of the packets of dat
 ### Svar
 
 
+
+
 ### **b)** How long is the upload time when using the bus?  
 ### Svar
 
@@ -140,7 +142,9 @@ $$ 1 \: \text{GB} = 1024 \: \text{MB} $$
 $$
 1024 \: \text{MB} \cdot 8 = 8192 \: \text{Mbits}
 $$
-$$ \frac{8192 Mb}{100 Mbps} =  81.92 \: \text{seconds} = 1 \: \text{Minute} \: 21.92 \: \text{seconds}$$
+$$ \frac{8192 Mb}{100 Mbps} =  81.92 \: \text{seconds} = 1 \: \text{Minute} \: 22 \: \text{seconds}$$
+
+
 
 ### **c)** What is the fastest way for the user to transfer the data to the server?
 ### Svar

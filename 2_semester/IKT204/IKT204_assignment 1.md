@@ -15,6 +15,8 @@ Store-and-forward packet switching.
 
 What is the total end-to-end delay to send a packet of length L ?
 
+$$ d_{\text{end to end}} = N \cdot \frac{L}{} $$
+e
 $$\text{Total end-to-end delay} = \frac{L}{R_1} + \frac{L}{R_2}  $$
 
 ## Ch. 1.2. (15 points) 
@@ -33,10 +35,14 @@ What do encapsulation and de-encapsulation mean? Why are they needed in a layere
 ## Ch. 1.4. (10 points)
 **Which layers in the Internet protocol stack does a router process? Which layers does a link-layer switch process? Which layers does a host process?**
 
+Routers process network, link and physical layers (layers 1 through 3). (This is a little bit of a white lie, as modern routers sometimes act as firewalls or caching components, and process Transport layer as well.) Link layer switches process link and physical layers (layers 1 through2). Hosts process all five layers.
+
 
 
 ## *Ch. 1.5. (10 points) 
 **Describe how a botnet can be created, and how it can be used for a DDoS attack.
+
+Creation of a botnet requires an attacker to find vulnerability in some application or system (e.g. exploiting the buffer overflow vulnerability that might exist in an application). After finding the vulnerability, the attacker needs to scan for hosts that are vulnerable. The target is basically to compromise a series of systems by exploiting that particular vulnerability. Any system that is part of the botnet can automatically scan its environment and propagate by exploiting the vulnerability. An important property of such botnets is that the originator of the botnet can remotely control and issue commands to all the nodes in the botnet. Hence, it becomes possible for the attacker to issue a command to all the nodes, that target a single node (for example, all nodes in the botnet might be commanded by the attacker to send a TCP SYN message to the target, which might result in a TCP SYN flood attack at the target).
 
 ## Ch. 1.6. (10 points)  
 Propagation delay and transmission delay are two central concepts in data networking. Consider two hosts, A and B, connected by a single link of rate **_R_** bps. Suppose that the two hosts are separated by **_m_** meters, and suppose the propagation speed along the link is **_s_** meters/sec. Host A is to send a packet of size **_L_** bits to Host B.

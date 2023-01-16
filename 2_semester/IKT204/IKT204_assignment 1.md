@@ -65,13 +65,15 @@ $$ d_{trans} = \frac{L}{R} $$
 ### **c)** Ignoring processing and queuing delays, obtain an expression for the end-to-end delay.  
 
 ### Svar
-$$ d_{total} = d_{nodal} $$
 
-The most important of these delays are the nodal processing delay, queuing delay, transmis-
-sion delay, and propagation delay; together, these delays accumulate to give a total
-nodal delay. 
+The total delay is given by accumulating the nodal processing delay, queuing delay, transmis-
+sion delay, and propagation delay. That gives the following formula:
 
-d(nodal) = d(proc) + d(queue) + d(transe) + d(prop)
+$$ d_{total} = d_{procg} + d_{queue} + d_{trans} + d_{prop} $$
+
+Ignoring the processing and queuing delays, we get the following:
+
+$$ d_{modified} = d_{trans} + d_{prop} $$
 
 
 ### **d)** Suppose Host A begins to transmit the packet at time **_t_ = 0**. At time **_t_ = _d_trans**, where is the last bit of the packet?  

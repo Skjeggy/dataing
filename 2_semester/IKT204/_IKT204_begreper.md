@@ -1,5 +1,5 @@
 
-[[TCP-IP modellen]]
+[[The five layers of the internet]]
 
 [[What is a network protocol]]
 

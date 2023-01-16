@@ -6,7 +6,7 @@
 		{"id":"daa68a6c92a2e8df","x":422,"y":-1443,"width":932,"height":660,"color":"4","type":"group","label":"Protocols"},
 		{"id":"643a003c04c949f7","x":1017,"y":-918,"width":109,"height":60,"color":"5","type":"text","text":"## [[Fysisk]]"},
 		{"id":"c0c24052cdba7357","x":1126,"y":-1154,"width":135,"height":58,"color":"6","type":"text","text":"## [[Ethernet]]"},
-		{"id":"53b0f2d77f5fd64b","x":606,"y":-1124,"width":337,"height":130,"color":"#c93131","type":"text","text":"## The five layers of the internet protocol stack - [[TCP-IP modellen]]"},
+		{"id":"53b0f2d77f5fd64b","x":606,"y":-1124,"width":337,"height":130,"color":"#c93131","type":"text","text":"## The five layers of the internet protocol stack - [[The five layers of the internet]]"},
 		{"id":"e3366b0f816695a2","x":1089,"y":-1359,"width":205,"height":54,"color":"3","type":"text","text":"## [[Nettverkslaget]]"}
 	],
 	"edges":[

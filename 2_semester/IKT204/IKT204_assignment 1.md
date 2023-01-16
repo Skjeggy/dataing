@@ -110,7 +110,8 @@ $$ m = \frac{L}{R} \cdot s = \frac{1500 \cdot 8}{20 \cdot 10^{6}} \cdot 2.5 \cdo
 ### Svar
 Amount of bytes = 1500 * 8 = 12000
 
-$$ \frac{12000}{} $$
+$$ \frac{12000}{(4 \cdot 10^{6})} = 0.003 \: \text{s} = 3 \: \text{ms} $$
+$$ 3 \: \text{ms} +  $$
 
 
 ## **Ch. 1.8. (15 points)  

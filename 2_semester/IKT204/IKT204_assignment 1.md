@@ -108,10 +108,10 @@ $$ m = \frac{L}{R} \cdot s = \frac{1500 \cdot 8}{20 \cdot 10^{6}} \cdot 2.5 \cdo
 ![Chapter1_Figure_1.16.PNG](https://files.transtutors.com/book/qimg/a3b868b1-2e82-465e-858e-54da5c20781a.png)
 
 ### Svar
-Amount of bytes = 1500 * 8 = 12000
-
-$$ \frac{12000}{(4 \cdot 10^{6})} = 0.003 \: \text{s} = 3 \: \text{ms} $$
-$$ 3 \: \text{ms} +  $$
+Converting bytes to bit:
+$$ 1500 \: \text{bytes} \cdot 8 = 12000 \: \text{bits}$$
+$$ d_{prop} = \frac{L}{R} = \frac{12000}{(4 \cdot 10^{6})} = 0.003 \: \text{s} = 3 \: \text{ms} $$
+$$ 3 \: \text{ms} + 2 \: \text{ms} = 6 \: \text{ms} $$
 
 
 ## **Ch. 1.8. (15 points)  

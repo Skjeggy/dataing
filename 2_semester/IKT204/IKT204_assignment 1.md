@@ -126,8 +126,17 @@ Since the difference in time between the two arrival times of the packets of dat
 **Consider a user who needs to upload 1 GB of data to a server, where G is SI standard (base 10) 109 and not binary (base 2) 230 = 10243. The user lives in a small town where only 56 kbps dial-up access is available. A bus visits the small town once a day from the closest city 150 km away and stops in front of the user’s house. The bus has a 100 Mbps Wi-Fi connection. It can collect data from users in rural areas and transfer them to the Internet through a 1 Gbps link once it gets back to the city. Suppose average speed of the bus is 60 km/h.
 
 ### **a)** How long is the upload time when using dial-up internet access?  
+### Svar
+
+
 ### **b)** How long is the upload time when using the bus?  
+### Svar
+
+
 ### **c)** What is the fastest way for the user to transfer the data to the server?
+### Svar
+
+
 
 ## **Ch. 1.9. (10 points)  
 **A few questions from the history of the Internet.

@@ -128,7 +128,7 @@ Since the difference in time between the two arrival times of the packets of dat
 ### **a)** How long is the upload time when using dial-up internet access?  
 ### Svar
 
-$$ \frac{8192 \: \text{Mb}}{56 \text{Kb}} $$
+$$ \frac{8192 \: \text{Mb}}{0.056 \: \text{Mbps}} = 146285.7143 \: \text{seconds} =  $$
 
 
 

@@ -9,6 +9,7 @@ Vurdering:  mappevurdering + prosjekt. Ingen eksamen.
 [[Breadboard]]
 [[LED]]
 [[STM32L475]]
+[[Resistors]]
 
 
 # Oppgaver

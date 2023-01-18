@@ -5,6 +5,12 @@ alias: Mikrokontrollere
 
 Vurdering:  mappevurdering + prosjekt. Ingen eksamen.
 
+# Notes
+[[Breadboard]]
+[[LED]]
+[[STM32L475]]
+
+
 # Oppgaver
 
 ## Gruppeoppgaver

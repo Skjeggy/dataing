@@ -49,6 +49,8 @@ One is through educating potential victims.
 
 In recent times, machine learning is increasingly used to detect and stop phishing attacks before they can reach the victim.  [[@basitComprehensiveSurveyAIenabled2021]]
 
+According to the norwegian website nettvett.no
+
 
 
 # Mulig tema : APT 

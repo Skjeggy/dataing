@@ -20,7 +20,7 @@ Phishing is a form of cyberattack that sends a message, usually by email, to the
 
 One way of tricking the victim might be to make the message appear to be from a known or reliable source that the victim might care about. 
 
-The messages might be crafted manually, targeting a specific victim (spear phishing), or they might be automatically generated attempting to reach as large an audience as possible. 
+The messages might be crafted manually, targeting a specific victim (i.e. spear phishing or whale phishing), or they might be automatically generated attempting to reach as large an audience as possible. 
 
 [[@wassermanHospitalCybersecurityRisks2022]]
 
@@ -43,13 +43,15 @@ The Anti-Phishing Working Group (APWG), which follows the global development of 
 ![[Pasted image 20230119221608.png]]
 
 
-## Using AI to combat phishing attacks. 
+## Anti-phishing actions
+
 There are several ways to defend against phishing attacks. 
-One is through educating potential victims. 
+
+One is through educating potential victims. For  businesses, this involves training their employees to better identify phishing emails. 
 
 In recent times, machine learning is increasingly used to detect and stop phishing attacks before they can reach the victim.  [[@basitComprehensiveSurveyAIenabled2021]]
 
-According to the norwegian website nettvett.no
+
 
 
 

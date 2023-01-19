@@ -30,7 +30,7 @@ The messages might be crafted manually, targeting a specific victim (i.e. spear 
 ## status
 In recent times, phishing attacks commonly use specially designed fake websites to trick victims into divulging sensitive data such as login information, financial information or other exploitable information. Such websites serve as common entry points for online engineering attacks. 
 
-A typical phishing attack like this has four stages. To start with, the attacker sets up a fake website posing as an authentic one. Then, a URL is distributed to the target victim(s). The  victim is then tempted to visit the fake website. Finally the victim enters valuable data as input. 
+A typical phishing attack like this has four stages. To start with, the attacker sets up a fake website posing as an authentic one. Then, a URL is distributed to the target victim(s). The  victim is then tempted to visit the fake website. Finally the victim enters valuable data as input. [[@basitComprehensiveSurveyAIenabled2021]]
 
 The Anti-Phishing Working Group (APWG), which follows the global development of phishing attacks, reported that in the 3rd quarter of 2022 they counted as many as 1,270,883 total phishing attacks, which is a new record compared to earlier numbers. [[@APWGPhishingActivity]]
 

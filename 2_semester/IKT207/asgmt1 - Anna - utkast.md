@@ -24,18 +24,26 @@ The messages might be crafted manually, targeting a specific victim (spear phish
 
 [[@wassermanHospitalCybersecurityRisks2022]]
 
+
+
+As per Parekh et al. [51], a generic phishing attack has four stages. First, the phisher makes and sets up a fake website that looks like an authentic website. Secondly, the person sends a URL connection of the website to a targeted victim pretending like a genuine organization, user, or association. Thirdly, the person in question will be tempted to visit the injected fake website. Fourth, the unfortunate targeted victim will click on the fake source link and give his/her valuable data as input.
+
+
+
 ## status
-In recent times, phishing attacks commonly use specially designed fake websites to trick victims into  
+In recent times, phishing attacks commonly use specially designed fake websites to trick victims into divulging sensitive data such as login information, financial information or other exploitable information.
+
+Such websites serve as common entry points for online 
 
 
-The Anti-Phishing Working Group (APWG), which follows the global development of phishing attacks, reports a steady increase in the number of phishing websites. [[@basitComprehensiveSurveyAIenabled2021]]
-In the 3rd quarter of 2022 they counted as many as 1,270,883 total phishing attacks, which is a new record compared to earlier numbers. [[@APWGPhishingActivity]]
+
+The Anti-Phishing Working Group (APWG), which follows the global development of phishing attacks, reported that in the 3rd quarter of 2022 they counted as many as 1,270,883 total phishing attacks, which is a new record compared to earlier numbers. [[@APWGPhishingActivity]]
 
 
 ![[Pasted image 20230119221608.png]]
 
 
-#
+## Using AI to combat phishing attacks. 
 
 
 

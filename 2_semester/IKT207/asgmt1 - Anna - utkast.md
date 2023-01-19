@@ -24,16 +24,15 @@ The messages might be crafted manually, targeting a specific victim (spear phish
 
 [[@wassermanHospitalCybersecurityRisks2022]]
 
+## status
+In recent times, phishing attacks commonly use specially designed fake websites to trick victims into divulging sensitive data such as login information, financial information or other exploitable information. Such websites serve as common entry points for online engineering attacks. 
+
+A typical phishing attack like this has four stages. To start with, the attacker sets up a fake website posing as an authentic one. Then, a URL is distributed to the target victim(s). The  victim is then tempted to visit the fake website. Finally the victim enters valuable data as input. 
 
 
 As per Parekh et al. [51], a generic phishing attack has four stages. First, the phisher makes and sets up a fake website that looks like an authentic website. Secondly, the person sends a URL connection of the website to a targeted victim pretending like a genuine organization, user, or association. Thirdly, the person in question will be tempted to visit the injected fake website. Fourth, the unfortunate targeted victim will click on the fake source link and give his/her valuable data as input.
 
 
-
-## status
-In recent times, phishing attacks commonly use specially designed fake websites to trick victims into divulging sensitive data such as login information, financial information or other exploitable information.
-
-Such websites serve as common entry points for online 
 
 
 

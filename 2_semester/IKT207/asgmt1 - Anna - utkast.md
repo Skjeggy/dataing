@@ -46,9 +46,11 @@ One is through educating potential victims. For  businesses, this involves train
 
 Another important way to combat phishing is through legal action towards attackers using phishing attacks and similar methods to perform cybercrime. This might act as deterrents for more causal phishers.
 
-On the more technical side, there are methods ranging from heuristic detection and visual similiarity 
+On the more technical side, black and white listing is an important measure to combat phishing attacks. This involves either black listing a large list of domain names or URLs that are either suspicious or known to be harmful sites. 
 
-In recent times, machine learning is increasingly used to detect and stop phishing attacks before they can reach the victim.  [[@basitComprehensiveSurveyAIenabled2021]]
+there are methods ranging from heuristic detection and visual similarity detection to using advanced machine learning algorithms to detect both phishing emails and discrepancies between authentic websites and fake phishing websites. [[@alabdanPhishingAttacksSurvey2020]]
+
+
 
 
 

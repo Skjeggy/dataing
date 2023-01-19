@@ -20,4 +20,10 @@ In general, phishing is the most common delivery method (23) for offenders to in
 
 # Password attacks - rainbow tables
 
-A rainbow table attack is a specific type of password attack that 
+A rainbow table attack is a specific type of password attack that is used to crack passwords. 
+
+## How do passwords work
+
+
+## Basics of a rainbow table attack
+A rainbow table attack consists of two seperate phases. The

@@ -26,4 +26,4 @@ A rainbow table attack is a specific type of password attack that is used to cra
 
 
 ## Basics of a rainbow table attack
-A rainbow table attack consists of two seperate phases. The
+A rainbow table attack consists of two separate phases. The first phase is a table generation and the second phase is an online attack. 

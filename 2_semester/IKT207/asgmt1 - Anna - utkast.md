@@ -38,11 +38,13 @@ The Anti-Phishing Working Group (APWG), which follows the global development of 
 ![[Pasted image 20230119221608.png]]
 
 
-## Anti-phishing actions
+## How to defend against phishing attacks.
 
-There are several ways to defend against phishing attacks. 
+There are several ways to combat phishing attacks. 
 
-One is through educating potential victims. For  businesses, this involves training their employees to better identify phishing emails. 
+One is through educating potential victims. For  businesses, this involves training their employees to better identify phishing emails. This training can take many forms, including games and simulated phishing attacks. 
+
+Another important way to combat phishing is through legal action towards attackers using phishing attak
 
 In recent times, machine learning is increasingly used to detect and stop phishing attacks before they can reach the victim.  [[@basitComprehensiveSurveyAIenabled2021]]
 

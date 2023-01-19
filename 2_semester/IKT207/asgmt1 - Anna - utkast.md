@@ -46,7 +46,8 @@ One is through educating potential victims. For  businesses, this involves train
 
 Another important way to combat phishing is through legal action towards attackers using phishing attacks and similar methods to perform cybercrime. This might act as deterrents for more causal phishers.
 
-On the more technical side, black and white listing is an important measure to combat phishing attacks. This involves either black listing a large list of domain names or URLs that are either suspicious or known to be harmful sites. There are different blacklists publicly available, some more effective than others. The effectiveness is typically determined by how often the list is updated and 
+On the more technical side, black and white listing is an important measure to combat phishing attacks. This involves either black listing a large list of domain names or URLs that are either suspicious or known to be harmful sites. There are different blacklists publicly available, some more effective than others. The effectiveness is typically determined by how often the list is updated and the accuracy of its phishing detection. These days, you can often find such blacklists included in browser based security tools such as plug-ins and anti-phishing toolbars. They serve to automatically detect suspicious websites so to help prevent users from being tricked. Automated tools to help detect and update blacklists regularly have also been developed. 
+White listing is the practice of keeping a list of legitimate
 
 there are methods ranging from heuristic detection and visual similarity detection to using advanced machine learning algorithms to detect both phishing emails and discrepancies between authentic websites and fake phishing websites. [[@alabdanPhishingAttacksSurvey2020]]
 

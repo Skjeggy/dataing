@@ -18,7 +18,13 @@ In general, phishing is the most common delivery method (23) for offenders to in
 
 Phishing is a form of cyberattack that sends a message, usually by email, to the victim. The message is crafted, through methods of social engineering, to trick the victim to go to a specific website or download a file in such a way that malware may access the victims system. 
 
-The message might 
+One way of tricking the victim might be to make the message appear to be from a known or reliable source that the victim might care about. 
+
+The messages might be crafted manually, targeting a specific victim (spear phishing), or they might be automatically generated attempting to reach as large an audience as possible. 
+
+[[@wassermanHospitalCybersecurityRisks2022]]
+
+
 
 
 

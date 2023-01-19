@@ -17,3 +17,7 @@ In general, phishing is the most common delivery method (23) for offenders to in
 # Mulig tema : APT 
 
 
+
+# Password attacks - rainbow tables
+
+A rainbow table attack is a specific type of password attack that 

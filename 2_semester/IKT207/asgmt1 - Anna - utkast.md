@@ -44,7 +44,9 @@ There are several ways to combat phishing attacks.
 
 One is through educating potential victims. For  businesses, this involves training their employees to better identify phishing emails. This training can take many forms, including games and simulated phishing attacks. 
 
-Another important way to combat phishing is through legal action towards attackers using phishing attak
+Another important way to combat phishing is through legal action towards attackers using phishing attacks and similar methods to perform cybercrime. This might act as deterrents for more causal phishers.
+
+On the more technical side, there are methods ranging from heuristic detection and visual similiarity 
 
 In recent times, machine learning is increasingly used to detect and stop phishing attacks before they can reach the victim.  [[@basitComprehensiveSurveyAIenabled2021]]
 

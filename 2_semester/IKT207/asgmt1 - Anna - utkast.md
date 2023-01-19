@@ -25,12 +25,17 @@ The messages might be crafted manually, targeting a specific victim (spear phish
 [[@wassermanHospitalCybersecurityRisks2022]]
 
 ## status
+In recent times, phishing attacks commonly use specially designed sham websites 
+
 
 In 2018, the Anti-Phishing Working Group (APWG) counted more than 51,401 specially designed phishing websites. [[@basitComprehensiveSurveyAIenabled2021]]
 
 It has been estimated that associations worldwide suffered losses in the order of $9 billion due to phishing attacks alone in 2016. [[@basitComprehensiveSurveyAIenabled2021]]
 
+![[Pasted image 20230119221608.png]]
 
+
+#
 
 
 

@@ -14,9 +14,9 @@ In general, phishing is the most common delivery method (23) for offenders to in
 
 
 
-# Phishing attacks
+# Phishing attacks through websites.
 
-Phishing is a form of cyberattack that sends a message, usually by email, to the victim. The message is crafted, through methods of social engineering, to trick the victim to go to a specific website or download a file in such a way that malware may access the victims system. 
+Phishing is a form of cyberattack that sends a message, usually by email, to the victim. The message is crafted, through methods of social engineering, to trick the victim to go to a specific website and or download a file in such a way that malware may access the victims system. 
 
 One way of tricking the victim might be to make the message appear to be from a known or reliable source that the victim might care about. 
 
@@ -24,18 +24,13 @@ The messages might be crafted manually, targeting a specific victim (i.e. spear 
 
 [[@wassermanHospitalCybersecurityRisks2022]]
 
+![[Pasted image 20230119230813.png]]
+
+
 ## status
 In recent times, phishing attacks commonly use specially designed fake websites to trick victims into divulging sensitive data such as login information, financial information or other exploitable information. Such websites serve as common entry points for online engineering attacks. 
 
 A typical phishing attack like this has four stages. To start with, the attacker sets up a fake website posing as an authentic one. Then, a URL is distributed to the target victim(s). The  victim is then tempted to visit the fake website. Finally the victim enters valuable data as input. 
-
-
-
-As per Parekh et al. [51], a generic phishing attack has four stages. First, the phisher makes and sets up a fake website that looks like an authentic website. Secondly, the person sends a URL connection of the website to a targeted victim pretending like a genuine organization, user, or association. Thirdly, the person in question will be tempted to visit the injected fake website. Fourth, the unfortunate targeted victim will click on the fake source link and give his/her valuable data as input.
-
-
-
-
 
 The Anti-Phishing Working Group (APWG), which follows the global development of phishing attacks, reported that in the 3rd quarter of 2022 they counted as many as 1,270,883 total phishing attacks, which is a new record compared to earlier numbers. [[@APWGPhishingActivity]]
 

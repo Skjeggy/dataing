@@ -25,14 +25,12 @@ The messages might be crafted manually, targeting a specific victim (spear phish
 [[@wassermanHospitalCybersecurityRisks2022]]
 
 ## status
-In recent times, phishing attacks commonly use specially designed sham websites 
+In recent times, phishing attacks commonly use specially designed fake websites to trick victims into  
 
 
-The Anti-Phishing Working Group (APWG) reports a steady increase in the number of specifically designed fake phishing websites. 
+The Anti-Phishing Working Group (APWG), which follows the global development of phishing attacks, reports a steady increase in the number of phishing websites. [[@basitComprehensiveSurveyAIenabled2021]]
+In the 3rd quarter of 2022 they counted as many as 1,270,883 total phishing attacks, which is a new record compared to earlier numbers. [[@APWGPhishingActivity]]
 
-[[@basitComprehensiveSurveyAIenabled2021]]
-
-It has been estimated that associations worldwide suffered losses in the order of $9 billion due to phishing attacks alone in 2016. [[@basitComprehensiveSurveyAIenabled2021]]
 
 ![[Pasted image 20230119221608.png]]
 

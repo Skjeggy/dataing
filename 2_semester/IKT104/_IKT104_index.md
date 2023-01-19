@@ -31,7 +31,7 @@ To be announced.
 ## Notes
 - Snakk med Jan Erik - han har mekket mye på mikrokontrollere siste tiden.
 - Sjekk ut [[Raspberry Pi]]
-- Lurt å kjøpe mikrokontrollere med wifi - kanda bruke https://esphome.io/
+- Lurt å kjøpe mikrokontrollere med wifi - kan da bruke https://esphome.io/
 
 
 ## Viktige ressurser

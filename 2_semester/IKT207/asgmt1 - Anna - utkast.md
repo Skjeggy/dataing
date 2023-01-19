@@ -30,6 +30,7 @@ In recent times, phishing attacks commonly use specially designed fake websites 
 A typical phishing attack like this has four stages. To start with, the attacker sets up a fake website posing as an authentic one. Then, a URL is distributed to the target victim(s). The  victim is then tempted to visit the fake website. Finally the victim enters valuable data as input. 
 
 
+
 As per Parekh et al. [51], a generic phishing attack has four stages. First, the phisher makes and sets up a fake website that looks like an authentic website. Secondly, the person sends a URL connection of the website to a targeted victim pretending like a genuine organization, user, or association. Thirdly, the person in question will be tempted to visit the injected fake website. Fourth, the unfortunate targeted victim will click on the fake source link and give his/her valuable data as input.
 
 
@@ -43,7 +44,10 @@ The Anti-Phishing Working Group (APWG), which follows the global development of 
 
 
 ## Using AI to combat phishing attacks. 
+There are several ways to defend against phishing attacks. 
+One is through educating potential victims. 
 
+In recent times, machine learning is increasingly used to detect and stop phishing attacks before they can reach the victim.  [[@basitComprehensiveSurveyAIenabled2021]]
 
 
 

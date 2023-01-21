@@ -18,12 +18,6 @@ Grammatikken er god og jeg finner ingen åpenbare skrivefeil. Noen få steder je
 
 Antar dette skal være en liste ? I så fall kanskje greit å formatere den som en liste, for å unngå forvirring. 
 
-> Some examples are, the application does not filter, validate, or sanitize user supplied data. The tables/database structure is available within the dynamic SQL command. The source code has not been reviewed and there has been no penetration testing on the website or application.
-
 Grammatikken er god og jeg finner ingen åpenbare skrivefeil. Språket virker konsistent og gjennomført, samt lett forståelig. Ryddig struktur i teksten - avsluttes fint med en konklusjon. 
 
-Bibliografien virker til å mangle navnet på artiklene til nettsiden. f.eks. 
-
-Burde ikke denne hatt med "9 Infamous APT Groups: Fast Fact Trading Cards" som er tittelen på artikkelen ? Ref: https://kildekompasset.no/references/nettside-4/. 
-
-Ville i hvert fall dobbeltsjekket bibliografien. Antar du bruker Zotero eller en annen citation manager. Antar videre at du skriver i Overleaf. Sjekk om du har definert style riktig: https://www.overleaf.com/learn/latex/Biblatex_bibliography_styles
+Bibliografien er korrekt etter IEEE stil. Ser du bruker word - it

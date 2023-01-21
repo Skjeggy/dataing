@@ -3,15 +3,18 @@ One of the biggest security vulnerabilities in a system or program, is one the v
 
 # Kommentarer
 
-## Word count
+## Formal issues
 581 ord (da uten overskrift medregnet) - over 10% grensen. Bør reduseres til under 550 ord totalt. 
-
+Grammar is good and there are no obvious typos that I can find. 
 
 ## Hva går utover det som gis av info i videoene
 Multiple states ? Naming different APT groups and their exploits. Mer av dette ?
 
-Mye "generell" og "common sense" info. Hadde vært gøyere å lese om det var mer av spesifikke detaljer. F.eks. interfering with Hilary Clinton presidential campaign - how ?
+Mye "generell" og "common sense" info. 
 
-Grammar is good and there are no obvious typos that I can find. 
+Hadde vært gøyere å lese om det var mer av spesifikke detaljer eller dybde innenfor et aspekt. F.eks. interfering with Hilary Clinton presidential campaign - how ? 
+Hvordan har ATP grupper påvirket forskjellige myndigheter eller financial groups ?
 
-Bibliography seems to be missing the name of the articles.
+
+
+Bibliography seems to be missing the name of the articles. dobbeltsjekk stil. 

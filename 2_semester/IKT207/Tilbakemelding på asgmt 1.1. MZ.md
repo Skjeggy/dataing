@@ -2,7 +2,7 @@
 
 Hei, 
 
-Takk for anledningen til å lese teksten din! Veldig spennende og lærerikt å lese om backdoors. Godt jobbet! Vedlagt under finner du mine tilbakemeldinger, da basert på vurderingsveiledningen for faget. 
+Takk for anledningen til å lese teksten din! Spennende og lærerikt å lese om backdoors. Godt jobbet! Vedlagt under finner du mine tilbakemeldinger, da basert på vurderingsveiledningen for faget. 
 
 Lykke til videre med teksten!
 
@@ -37,10 +37,7 @@ Et tips til hvordan du kan ta en gjennomgang er å få en venn til å lese tekst
 ### Kildehenvisning
 Kildehenvisningen kunne vært bedre. Ser at du ikke følger IEEE stilen slik den egentlig skal være - se https://kildekompasset.no/references/nettside-4/ for eksempler på hvordan dette skal se ut.
 
-Jeg har en mistanke om at du skriver kildehenvisningen manuelt. Dette burde du virkelig ikke gjøre, da det er mye arbeid, tar mye tid og det ofte blir feil. Anbefaler deg virkelig å prøve https://www.zotero.org/ for å håndtere kildene dine. Om du også begynner å skrive i Overleaf, blir dette håndtert automatisk - https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX. Om du heller vil skrive i Word, finnes det plug ins for Zoto 
-
-
-Bibliografien er korrekt etter IEEE stil. Ser du bruker word - det er aldri for sent til å gå over til overleaf :) Det fungerer uansett fint for deg på denne oppgaven. 
+Jeg har en mistanke om at du skriver kildehenvisningen manuelt. Dette burde du virkelig ikke gjøre, da det er mye arbeid, tar mye tid og det ofte blir feil. Anbefaler deg virkelig å prøve https://www.zotero.org/ for å håndtere kildene dine. Om du også begynner å skrive i Overleaf, blir dette håndtert automatisk - https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX. Om du heller vil skrive i Word, finnes det plug ins for Zotero som gjør at kildehenvisningen kan genereres automatisk. Da slipper du å noensinne tenke på det igjen! :)  
 
 ## Annet
-Du har med mye god informasjon og går utover det som er i videoen på en god måte. Ser ellers ingen tydelige "inconsistencies" eller "misunderstandings" i teksten. 
+Du har med mye god informasjon, men det virker ikke til å gå særlig utover det som tas opp i videoen fra kurset. Om du vil forbedre dette vil jeg anbefale deg å se etter flere kilder å basere deg på. Ser ellers ingen tydelige "inconsistencies" eller "misunderstandings" i teksten. 

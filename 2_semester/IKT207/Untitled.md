@@ -4,11 +4,13 @@ One of the biggest security vulnerabilities in a system or program, is one the v
 # Kommentarer
 
 ## Formal issues
-581 ord (da uten overskrift medregnet) - over 10% grensen. Bør reduseres til under 550 ord totalt for å møte kravet.  Grammatikken er god og jeg finner ingen åpenbare skrivefeil. 
+581 ord (da uten overskrift medregnet) - over 10% grensen. Bør reduseres til under 550 ord totalt for å møte kravet.  Grammatikken er god og jeg finner ingen åpenbare skrivefeil. Språket virker konsistent og gjennomført, samt lett forståelig. 
 
+Bibliografien virker til å mange navnet på artiklene til nettsiden. f.eks. 
+R. Sobers, «Varonis,» Varonis, 29 Mars 2020. [Internett]. Available: https://www.varonis.com/blog/aptgroups. [Funnet 20 Januar 2023]
+Burde ikke denne hatt med "9 Infamous APT Groups: Fast Fact Trading Cards" som er tittelen på artikkelen ? 
 
-Grammar is good and there are no obvious typos that I can find. The language appears to be consistent. 
-
+Hvilken kilde citation manger bruker du ? Anbefaler https://www.zotero.org/. 
 
 
 ## Hva går utover det som gis av info i videoene
@@ -18,7 +20,3 @@ Mye "generell" og "common sense" info.
 
 Hadde vært gøyere å lese om det var mer av spesifikke detaljer eller dybde innenfor et aspekt. F.eks. interfering with Hilary Clinton presidential campaign - how ? 
 Hvordan har ATP grupper påvirket forskjellige myndigheter eller financial groups ?
-
-
-
-Bibliography seems to be missing the name of the articles. dobbeltsjekk stil. 

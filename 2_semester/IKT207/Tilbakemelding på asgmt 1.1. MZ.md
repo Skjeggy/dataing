@@ -41,3 +41,9 @@ Jeg har en mistanke om at du skriver kildehenvisningen manuelt. Dette burde du v
 
 ## Annet
 Du har med mye god informasjon, men det virker ikke til å gå særlig utover det som tas opp i videoen fra kurset. Om du vil forbedre dette vil jeg anbefale deg å se etter flere kilder å basere deg på. Ser ellers ingen tydelige "inconsistencies" eller "misunderstandings" i teksten. 
+
+
+## Anna
+
+Hei Muamer! Fin oppgave om backdoors! :) Slet litt her og der med å lese gjennom teksten - kanskje ta en titt på flyten i teksten ? Jeg pleier å lese høyt for meg selv for å høre om det flyter greit. :) 
+Ellers er du jo innenfor på antall ord og har mye god info. Ville tatt en tit 

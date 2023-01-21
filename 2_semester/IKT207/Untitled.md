@@ -5,3 +5,4 @@ One of the biggest security vulnerabilities in a system or program, is one the v
 
 ## Word count
 581 ord (da uten overskrift medregnet) - over 10% grensen. Bør reduseres til under 550 ord totalt. 
+

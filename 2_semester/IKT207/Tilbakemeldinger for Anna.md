@@ -21,4 +21,9 @@ Lykke til videre!
 ## Siste - på norsk
 
 Hei ...! Fin oppgave om Malware! :) 
-Skulle vi ikke skrive oppgaven på Engelsk? 
+Skulle vi ikke skrive oppgaven på Engelsk? Ellers ser jeg også at du mangler kilder. Jeg skriver i Overleaf og bruker Zotero som citation manager. Anbefales :) Ser også at du bruker mye linjeskifter. Kanskje greit å samle teksten i paragrafer? Da synes i hvert fall jeg det blir litt lettere å lese. 
+
+Helt til slutt ser jeg du har skrevet mye fint om malware, men ikke så mye utover det videoen snakket om. Om du skulle lagt inn det lille ekstra, burde du kanskje valgt noe ekstra å nevne som gikk litt i dybden på noe av det videoen snakket om. Hva tenker du? :) 
+
+Ønsker deg i hvert fall lykke til videre med oppgaven! 
+-Anna

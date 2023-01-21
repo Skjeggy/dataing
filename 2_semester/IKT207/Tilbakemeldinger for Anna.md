@@ -4,3 +4,4 @@ Ser teksten din er innenfor på lengden og er ryddig og god grammatisk og språk
 
 Siden vi skal foreslå noe som reviewers for å gjøre oppgaven bedre, ville jeg kanskje sett på å finne noe å skrive litt mer om som er utenfor det som nevnes i videoen. Du nevner for eksempel at man kan bruke P2P for å overføre commands til infiserte PC'er og bruksområder til botnets. Om man skulle gjort oppgaven enda bedre, og den er allerede god, kunne man skrevet bittelitt mer om de tingene der. Kanskje et eksempel på hvordan botnets har blitt brukt i virkeligheten? Eller om et spesifikt botnet, som Mirai eller andre (https://www.humansecurity.com/learn/blog/9-of-the-most-notable-botnets) ? 
 
+

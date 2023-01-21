@@ -14,10 +14,11 @@ Sondre Sverd Rekdal
 469 ord (da uten overskrift medregnet) - innenfor kravet. 
 Grammatikken er god og jeg finner ingen åpenbare skrivefeil. Noen få steder jeg bemerker meg forbedringspotensial, da f.eks. følgende: 
 
->Some examples are, the application does not filter, validate, or sanitize user supplied data.
+>Some examples are, the application does not filter, validate, or sanitize user supplied data. The tables/database structure is available within the dynamic SQL command. The source code has not been reviewed and there has been no penetration testing on the website or application.
 
-Dette er en liste. 
+Antar dette skal være en liste ? I så fall kanskje greit å formatere den som en liste, for å unngå forvirring. 
 
+> Some examples are, the application does not filter, validate, or sanitize user supplied data. The tables/database structure is available within the dynamic SQL command. The source code has not been reviewed and there has been no penetration testing on the website or application.
 
 Grammatikken er god og jeg finner ingen åpenbare skrivefeil. Språket virker konsistent og gjennomført, samt lett forståelig. Ryddig struktur i teksten - avsluttes fint med en konklusjon. 
 

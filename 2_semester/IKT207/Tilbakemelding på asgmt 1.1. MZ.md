@@ -12,11 +12,16 @@ Sondre Sverd Rekdal
 ## Formal issues
 469 ord (da uten overskrift medregnet) - innenfor kravet. 
 
-Grammatikken er god og jeg finner ingen åpenbare skrivefeil. Noen få steder jeg bemerker meg forbedringspotensial, da f.eks. følgende: 
+Fin introduksjon. Likte spesielt at du definerte målet med oppgaven med setningen under. Veldig deilig for meg som leser.
 
-Fin introduksjon. Likte spesielt at du definerte scope til oppgaven med denne setningen. Veldig deilig for meg som leser.
 > This essay is going to go a bit deeper into the specific malware called backdoors, and hopefully get an insight on what backdoors are, how they are used and lastly why they can be such a huge threat for the computer security.
 
+Utover dette ser jeg at det av og til blir litt vanskelig å henge med som leser når du har lange setninger og når grammatikken blir litt rotete. 
+Et eksempel på en slik lang setning: 
+
+> Backdoors are not independent programs made by developers whose interest is to deliver a malicious payload, backdoors are a way of gaining unauthorized access of the root of an application.
+
+Et eksempel på 
 
 Antar dette skal være en liste? I så fall kanskje greit å formatere den som en liste, for å unngå forvirring. Språket virker ellers konsistent og gjennomført, samt lett forståelig.
 

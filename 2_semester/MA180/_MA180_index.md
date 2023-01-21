@@ -17,3 +17,5 @@ Mappe. Krav til innhold i mappen gis ved semesterstart i Canvas. Gradering best�
 Mappen vil bli 6 innleveringer som digitale tester med krav om 50% bestått på minst 5. Det blir ikke arrangert ny/utsatt eksamen for mappevurderingen.
 
 
+# Pensumbok
+https://www.jottacloud.com/s/155af5ebc8c9e794dcabfcb05eed3540a14/list

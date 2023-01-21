@@ -13,3 +13,5 @@ Multiple states ? Naming different APT groups and their exploits. Mer av dette ?
 Mye "generell" og "common sense" info. Hadde vært gøyere å lese om det var mer av spesifikke detaljer. F.eks. interfering with Hilary Clinton presidential campaign - how ?
 
 Grammar is good and there are no obvious typos that I can find. 
+
+Bibliography seems to be missing the name of the articles.

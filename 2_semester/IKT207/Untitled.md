@@ -4,8 +4,12 @@ One of the biggest security vulnerabilities in a system or program, is one the v
 # Kommentarer
 
 ## Formal issues
-581 ord (da uten overskrift medregnet) - over 10% grensen. Bør reduseres til under 550 ord totalt. 
-Grammar is good and there are no obvious typos that I can find. 
+581 ord (da uten overskrift medregnet) - over 10% grensen. Bør reduseres til under 550 ord totalt for å møte kravet.  Grammatikken er god og jeg finner ingen åpenbare skrivefeil. 
+
+
+Grammar is good and there are no obvious typos that I can find. The language appears to be consistent. 
+
+
 
 ## Hva går utover det som gis av info i videoene
 Multiple states ? Naming different APT groups and their exploits. Mer av dette ?

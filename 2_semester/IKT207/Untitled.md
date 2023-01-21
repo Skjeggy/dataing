@@ -6,3 +6,10 @@ One of the biggest security vulnerabilities in a system or program, is one the v
 ## Word count
 581 ord (da uten overskrift medregnet) - over 10% grensen. Bør reduseres til under 550 ord totalt. 
 
+
+## Hva går utover det som gis av info i videoene
+Multiple states ? Naming different APT groups and their exploits. Mer av dette ?
+
+Mye "generell" og "common sense" info. Hadde vært gøyere å lese om det var mer av spesifikke detaljer. F.eks. interfering with Hilary Clinton presidential campaign - how ?
+
+Grammar is good and there are no obvious typos that I can find. 

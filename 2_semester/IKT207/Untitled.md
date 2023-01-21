@@ -8,9 +8,9 @@ One of the biggest security vulnerabilities in a system or program, is one the v
 
 Bibliografien virker til å mange navnet på artiklene til nettsiden. f.eks. 
 R. Sobers, «Varonis,» Varonis, 29 Mars 2020. [Internett]. Available: https://www.varonis.com/blog/aptgroups. [Funnet 20 Januar 2023]
-Burde ikke denne hatt med "9 Infamous APT Groups: Fast Fact Trading Cards" som er tittelen på artikkelen ? 
+Burde ikke denne hatt med "9 Infamous APT Groups: Fast Fact Trading Cards" som er tittelen på artikkelen ? Ref: https://kildekompasset.no/references/nettside-4/
 
-Antar du bruker Zotero eller en annen citation manager.   
+Antar du bruker Zotero eller en annen citation manager. Antar videre at du skriver i Overleaf. 
 
 
 ## Hva går utover det som gis av info i videoene

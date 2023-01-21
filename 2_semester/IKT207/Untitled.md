@@ -10,7 +10,7 @@ Bibliografien virker til å mange navnet på artiklene til nettsiden. f.eks.
 R. Sobers, «Varonis,» Varonis, 29 Mars 2020. [Internett]. Available: https://www.varonis.com/blog/aptgroups. [Funnet 20 Januar 2023]
 Burde ikke denne hatt med "9 Infamous APT Groups: Fast Fact Trading Cards" som er tittelen på artikkelen ? 
 
-Hvilken kilde citation manger bruker du ? Anbefaler https://www.zotero.org/. 
+Antar du bruker Zotero eller en annen citation manager.   
 
 
 ## Hva går utover det som gis av info i videoene

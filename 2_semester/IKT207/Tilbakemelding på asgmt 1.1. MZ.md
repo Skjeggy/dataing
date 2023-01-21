@@ -46,4 +46,4 @@ Du har med mye god informasjon, men det virker ikke til å gå særlig utover de
 ## Anna
 
 Hei Muamer! Fin oppgave om backdoors! :) Slet litt her og der med å lese gjennom teksten - kanskje ta en titt på flyten i teksten ? Jeg pleier å lese høyt for meg selv for å høre om det flyter greit. :) 
-Ellers er du jo innenfor på antall ord og har mye god info. Ville tatt en tit 
+Ellers er du jo innenfor på antall ord og har mye god info. Ville tatt en titt på kildehenvisningen, ser det er noen mangler der. Kanskje 

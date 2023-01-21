@@ -4,19 +4,18 @@ One of the biggest security vulnerabilities in a system or program, is one the v
 # Kommentarer
 
 ## Formal issues
-581 ord (da uten overskrift medregnet) - over 10% grensen. Bør reduseres til under 550 ord totalt for å møte kravet.  Grammatikken er god og jeg finner ingen åpenbare skrivefeil. Språket virker konsistent og gjennomført, samt lett forståelig. 
+581 ord (da uten overskrift medregnet) - over 10% grensen. Bør reduseres til under 550 ord totalt for å møte kravet.  Grammatikken er god og jeg finner ingen åpenbare skrivefeil. Språket virker konsistent og gjennomført, samt lett forståelig. Ryddig struktur i teksten - avsluttes fint med en konklusjon. 
 
 Bibliografien virker til å mange navnet på artiklene til nettsiden. f.eks. 
 R. Sobers, «Varonis,» Varonis, 29 Mars 2020. [Internett]. Available: https://www.varonis.com/blog/aptgroups. [Funnet 20 Januar 2023]
 Burde ikke denne hatt med "9 Infamous APT Groups: Fast Fact Trading Cards" som er tittelen på artikkelen ? Ref: https://kildekompasset.no/references/nettside-4/
 
-Antar du bruker Zotero eller en annen citation manager. Antar videre at du skriver i Overleaf. 
+Antar du bruker Zotero eller en annen citation manager. Antar videre at du skriver i Overleaf. Sjekk om du har definert style riktig: https://www.overleaf.com/learn/latex/Biblatex_bibliography_styles
 
 
 ## Hva går utover det som gis av info i videoene
-Multiple states ? Naming different APT groups and their exploits. Mer av dette ?
+Mye god informasjon. Du går litt utover det som er i videoen på en god måte. Om jeg skulle prøve å tenke ut måter du kunne løfte teksten videre opp på, ville jeg kanskje sett på det at det blir mye "generell info" og lite som går i dybden. Noe av det gøyeste å lese om i teksten din var navnene på APT gruppene og hva de har gjort (f.eks. mtp Hilary Clinton). Kanskje du kunne nevnt mer om dette ?
 
-Mye "generell" og "common sense" info. 
+Evt hadde det vært spennende å ha mer info innen et annent aspekt av teksten. F.eks nevner du at  govornments and financial organizations er de som er mest opptatt av APT. Hvordan har ATP grupper påvirket forskjellige myndigheter eller financial groups ?
 
-Hadde vært gøyere å lese om det var mer av spesifikke detaljer eller dybde innenfor et aspekt. F.eks. interfering with Hilary Clinton presidential campaign - how ? 
-Hvordan har ATP grupper påvirket forskjellige myndigheter eller financial groups ?
+Ser ellers ingen tydelige 

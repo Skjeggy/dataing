@@ -14,8 +14,10 @@ Bibliografien virker til å mangle navnet på artiklene til nettsiden. f.eks.
 ```
 R. Sobers, «Varonis,» Varonis, 29 Mars 2020. [Internett]. Available: https://www.varonis.com/blog/aptgroups. [Funnet 20 Januar 2023]
 ```
-Burde ikke denne hatt med "9 Infamous APT Groups: Fast Fact Trading Cards" som er tittelen på artikkelen ? Ref: https://kildekompasset.no/references/nettside-4/. Ville i hvert fall dobbeltsjekket bibliografien. Antar du bruker Zotero eller en annen citation manager. Antar videre at du skriver i Overleaf. Sjekk om du har definert style riktig: https://www.overleaf.com/learn/latex/Biblatex_bibliography_styles
 
+Burde ikke denne hatt med "9 Infamous APT Groups: Fast Fact Trading Cards" som er tittelen på artikkelen ? Ref: https://kildekompasset.no/references/nettside-4/. 
+
+Ville i hvert fall dobbeltsjekket bibliografien. Antar du bruker Zotero eller en annen citation manager. Antar videre at du skriver i Overleaf. Sjekk om du har definert style riktig: https://www.overleaf.com/learn/latex/Biblatex_bibliography_styles
 
 ## Annet
 Mye god informasjon. Du går utover det som er i videoen på en god måte. Om jeg skulle prøve å tenke ut måter du kunne løfte teksten videre opp på, ville jeg påpekt at det blir mye "generell info" og lite som går i dybden. Noe av det gøyeste å lese om i teksten din var navnene på APT gruppene og hva de har gjort (f.eks. mtp Hilary Clinton). Kanskje du kunne nevnt mer om dette ?

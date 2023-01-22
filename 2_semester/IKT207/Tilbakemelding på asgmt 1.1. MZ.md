@@ -14,7 +14,6 @@ Sondre Sverd Rekdal
 ### Antall ord
 469 ord (da uten overskrift medregnet) - innenfor kravet. 
 
-
 ### Grammatikk og språk
 Fin introduksjon. Likte spesielt at du definerte målet med oppgaven med setningen under. Veldig deilig for meg som leser.
 

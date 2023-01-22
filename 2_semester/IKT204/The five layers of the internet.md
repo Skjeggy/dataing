@@ -32,3 +32,6 @@ Packets in this layers are called **frames**.
 
 ## Physical Layer
 The lowest layer of the five-layer network model that defines how the cables, network cards, wireless transmitters connect to the networks and the networks to the internet.
+
+physical layer is to move the individual
+bits within the frame from one node to the next.

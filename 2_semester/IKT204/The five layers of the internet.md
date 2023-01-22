@@ -10,17 +10,27 @@ Modellen består av følgende fag:
 
 
 
+## Application layer
+This is the
 
+Applikasjonslaget Dette er laget brukeren/hosten befinner seg i. Data fra applikasjonen blir sendt som message.
 
+Packets in this layer are called **messages**.
 
 ## Transport layer
 This layer consists of two protocols: Transmission Control Protocol (TCP) and user datagram protocol (UDP). Both protocols break up a message that an application wants to send into packets to the intended recipient. At the recipient end of the communication, both take the payload from the received packets and pass those to the application layer. Example: an email client and server communicate over a reliable TCP connection. The server acknowledges a request and a TCP connection is established. Using this connection, the client and server can exchange data.
 
+Packets in this layer are called **segments**.
+
 ## Network layer
 The network layer is responsible for transmitting and routing data packets on the network. The internet uses the internet protocol (IP) as it's network layer. Each node on the network has an IP address of which data is sent as IP packets. When a client sends its TCP connection request, the network layer puts the request in a number of packets and transmits each of them to the server. Each packet can take different routes and some packets may get lost along the way. If the all make it, the transport layer at the server is able to reconstruct the request and prepare a response confirming that the TCP connection was established. This response is sent back in a number of IP packets that will hopefully make it back to the client.
 
+Packets in this layer are called **datagram**.
+
 ## Data Link Layer
 The data link layer provides a network connection between hosts on a particular local network. Some examples are Ethernet, WiFi, switches, etc. The internet protocol basically assumes all computers are part of one large "web" of nodes that can all pass packets to other nodes. There is always a route from one node to another; even if there are sometimes a large number of intermediate nodes get involved. The datalink layer makes this assumption true.
+
+Packets in this layers are called **frames**.
 
 ## Physical Layer
 The lowest layer of the five-layer network model that defines how the cables, network cards, wireless transmitters connect to the networks and the networks to the internet.

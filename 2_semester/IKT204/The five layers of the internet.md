@@ -11,9 +11,7 @@ Modellen består av følgende fag:
 
 
 ## Application layer
-This is the
-
-Applikasjonslaget Dette er laget brukeren/hosten befinner seg i. Data fra applikasjonen blir sendt som message.
+The application layer is the topmost layer of the protocol hierarchy. It is the layer where actual communication is initiated. It's also the layer that both the client and the server are in. An example of a protocol in this layer is the **HyperText Transfer Protocol (HTTP)**. HTTP is an application layer protocol used for transferring information between computers on the World Wide Web.
 
 Packets in this layer are called **messages**.
 

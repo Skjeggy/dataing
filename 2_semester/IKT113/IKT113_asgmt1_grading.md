@@ -23,3 +23,6 @@ The essay/article should be written in english.
 Se Overleaf.
 
 [[IKT113_asgmt1_grading]]
+
+
+For endelig innlevering av denne oppgaven se [[IKT113_asgmt1_review]]

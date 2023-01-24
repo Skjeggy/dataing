@@ -1,4 +1,5 @@
 Kapittel 1.5.2 i boka. Sett av litt tid til å lese og forstå. 
+Why are they needed in a layered protocol stack?
 
 # Svar
 Når en message (fra application layer) reiser gjennom internettets 5 lag blir den "pakket" inn i forskjellige "konvolutter" som beskriver hva de forskjellige lagene skal gjøre med den - altså hvor den skal sendes. Encapsulation er altså instruksjoner til hvert lag av internett på hvordan de skal behandle pakken og hvor de skal sende den. 
@@ -12,6 +13,6 @@ When a message travels down through the different layers, it gets information ap
 
 The packages typically contain two types of fields: the payload and the header field. The payload typically contains the packet from the layer above, while the header belongs to the current layer the packet is in. 
 
-The reason why this is necessary in a layere d
+The reason why this is necessary in a layered protocol stack is to ensure that each layer knows how to handle the packet and which address to send it to. 
 
 

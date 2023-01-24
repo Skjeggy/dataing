@@ -20,3 +20,6 @@ The minimum requirement is to cover the topic a bit deeper than the level of the
 The essay/article should be written in english.
 
 # Besvarelse
+Se Overleaf.
+
+[[IKT113_asgmt1_grading]]

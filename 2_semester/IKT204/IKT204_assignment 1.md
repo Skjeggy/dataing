@@ -155,6 +155,7 @@ $$ \frac{8192 Mb}{100 Mbps} =  81.92 \: \text{seconds} = 1 \: \text{Minute} \: 2
 
 
 
+
 ## **Ch. 1.9. (10 points)  
 **A few questions from the history of the Internet.
 

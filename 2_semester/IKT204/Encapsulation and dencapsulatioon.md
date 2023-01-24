@@ -8,4 +8,4 @@ Når beskjeden (message) beveger seg nedover i internettet-lagene, og den pakkes
 
 ## Engelsk
 
-When a message travels down through the different layers, it gets information appended to it known as headers. When the message goes through the transport layer, the message gets transport-layer header information appended. This header together with the original message is what constitutes a transport-layer segment. The same happens when the segment goes through the network layer ()
+When a message travels down through the different layers, it gets information appended to it known as headers. This is known as encapsulation. When the message goes through the transport layer, the message gets transport-layer header information appended. This header together with the original message is what constitutes a transport-layer segment. The same happens when the segment goes through the network layer (forms a datagram), and when the datagram goes through the link layer (forms a frame). As the the now encapsulated message travels upwards through the layers en route to its destination, the headers 

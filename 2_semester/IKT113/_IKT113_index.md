@@ -39,7 +39,7 @@ Modules 1, 2 and 4 also contain a practical exercise. They are designed to give 
 ## Innleveringer
 
 ### Self-study (solo oppgaver)
-[[IKT207_asgmt1_review|(Study, for review) 1.1 Threats, Attacks and Vulnerabilities]]
+[[IKT113_asgmt1_review|(Study, for review) 1.1 Threats, Attacks and Vulnerabilities]]
 [[IKT207_asgmt1_grading|(Study, for grading) 1.1 Threats, Attacks and Vulnerabilities]]
 [[IKT207_asgmt2_review|(Study, for review) 2.1 Cryptography]]
 [[IKT207_asgmt2_grading|(Study, for grading) 2.1 Cryptography]]

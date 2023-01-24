@@ -1,5 +1,5 @@
 
-![[IKT207_asgmt1_review#Definisjon (chatgpt - about ransomware)]]
+![[IKT113_asgmt1_review#Definisjon (chatgpt - about ransomware)]]
 
 
 # Introduction - what is ransomware

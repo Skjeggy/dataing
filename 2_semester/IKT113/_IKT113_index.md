@@ -32,8 +32,9 @@ Modules 1, 2 and 4 also contain a practical exercise. They are designed to give 
 - [[Understanding vulnerability types]]
 - [[Vulnerability Scanning]]
 - [[Penetration testing and excercises]]
-- 
-- 
+
+[[Secure Code Design and Implementation]]
+
 # Oppgaver
 
 ## Innleveringer

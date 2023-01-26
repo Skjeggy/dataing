@@ -16,7 +16,10 @@ Embedded devices (alt ligger i firmware) powers the Internet of Things.
 ![[Pasted image 20230126104740.png]]
 
 ## Agile
-**Individuals** and interactions over processes and tools  
-Working software over comprehensive documentation  
-Customer collaboration over contract negotiation  
-Responding to change over following a plan
+**Individuals and interactions** over processes and tools  
+**Working software** over comprehensive documentation  
+**Customer collaboration** over contract negotiation  
+**Responding to change** over following a plan
+
+Osv. Se https://agilemanifesto.org/
+

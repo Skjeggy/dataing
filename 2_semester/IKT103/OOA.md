@@ -80,4 +80,6 @@ Becomes a conceptual data model.
 ### Analyze nouns
 - Redundant - two nouns for the same thing ? 
 - Vague - what is meant by this noun ?
-- Operational - does the noun actually represent somet
+- Operational - does the noun actually represent something done by the system ? 
+- State - does the noun actually represent a state?
+- 

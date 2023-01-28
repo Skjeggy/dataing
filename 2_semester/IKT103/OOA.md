@@ -31,3 +31,9 @@ Domain concept: book. (title). Visualization of domain concept.
 Alle klassetyper havner i en av 3 kategorier:
 
 - **Entiteter** -> ender med å bli en databasetabeller
+
+```mermaid
+graph LR
+A[Analyse the system]--> B[Model the system]
+B --> C[Design the software]
+```

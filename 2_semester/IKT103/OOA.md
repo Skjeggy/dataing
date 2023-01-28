@@ -60,7 +60,7 @@ B --> C[Design the software]
 - Describing the responsibilities of each class
 
 
-## Tasklist
+### Tasklist
 1. Obtain or prepare a textual description of the problem
 2. Underline the nouns
 3. Organize the nouns into groups to become candidate classes
@@ -70,7 +70,7 @@ B --> C[Design the software]
 7. Assign the action verbs to operations of classes
 8. Assign the stative verbs as attributes of classes or relationships.
 
-## Conceptual data model
+### Conceptual data model
 Nouns -> classes
 Action verb (i.e. runs, does etc) -> operations
 Adjectives -> attributes

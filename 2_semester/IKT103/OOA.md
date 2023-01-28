@@ -31,6 +31,7 @@ Domain concept: book. (title). Visualization of domain concept.
 Alle klassetyper havner i en av 3 kategorier:
 
 - **Entiteter** -> ender med å bli en databasetabeller
+- **Controller** -> en klasse som skal ha kjernefunksjoner.
 
 ```mermaid
 graph LR

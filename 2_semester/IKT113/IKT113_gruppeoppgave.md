@@ -1,5 +1,8 @@
 # Juice Shop login
 
-User | password
----|----
-			
+User | Password
+---|---
+labgroup01 | 5509 F5DE
+
+
+URL : 

@@ -82,4 +82,5 @@ Becomes a conceptual data model.
 - Vague - what is meant by this noun ?
 - Operational - does the noun actually represent something done by the system ? 
 - State - does the noun actually represent a state?
-- 
+
+System wide property.

@@ -2,7 +2,7 @@
 alias: object oriented analysis, object oriented design
 ---
 
-# Object Oriented Analysis/Design
+# Object Oriented Analysis/Design (OOA/OOD)
 
 ![[Pasted image 20230128211607.png]]
 
@@ -19,10 +19,15 @@ Gruppeprosjektet handler KUN om analyse og design.
 
 -Arne Wiklund
 
->[!example]
+>[!example]-
 > Hvordan fungerer et biblioteksystem? I et bibliotek må man se for seg de forskjellige konseptene og objektene. 
 > - En bok har en tittel, forfatter osv.. 
 > - Biblioteker har en addresse.
 > - En forfatter kan ha flere bøker.
 > - En lånetaker (patron) kan låne flere bøker, har en låneklasse osv. Er en klasse pga vi kan ha flere patron objekter.
 
+Domain concept: book. (title). Visualization of domain concept. 
+
+Alle klassetyper havner i en av 3 kategorier:
+
+- **Entiteter** -> ender med å bli en databasetabeller

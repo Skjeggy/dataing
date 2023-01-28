@@ -77,3 +77,7 @@ Adjectives -> attributes
 Stative verbs (i.e. to be, is etc) -> relationships
 Becomes a conceptual data model.
 
+### Analyze nouns
+- Redundant - two nouns for the same thing ? 
+- Vague - what is meant by this noun ?
+- Operational - does the noun actually represent somet

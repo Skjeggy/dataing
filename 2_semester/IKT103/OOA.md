@@ -31,7 +31,8 @@ Domain concept: book. (title). Visualization of domain concept.
 Alle klassetyper havner i en av 3 kategorier:
 
 - **Entiteter** -> ender med å bli en databasetabeller
-- **Controller** -> en klasse som skal ha kjernefunksjoner.
+- **Controller** -> en klasse som skal ha kjernefunksjoner. Finnes minimum 1 controller i alle program. Denne klassen som DRIVER ting. 
+- 
 
 ```mermaid
 graph LR
@@ -53,3 +54,17 @@ B --> C[Design the software]
 > 	- Dice (value, amount)
 
 
+### It involves:
+- Discovering classes
+- Describing relationship between the classes
+- Describing the responsibilities of each class
+
+
+# Tasklist
+1. Obtain or prepare a textual description of the problem
+2. Underline the nouns
+3. Organize the nouns into groups to become candidate classes
+4. Underline all the adjectives
+5. Assign the adjectives as attributes of the candidate classes
+6. Underline the verb, differentiate action from stative verb.
+7. Assign the action verbs to 

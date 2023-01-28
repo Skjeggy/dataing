@@ -20,4 +20,9 @@ Gruppeprosjektet handler KUN om analyse og design.
 -Arne Wiklund
 
 >[!example]
-> Hvordan fungerer et biblioteksystem? I et bibliotek må man se for seg de forskjellige konseptene og objektene. En bok har en tittel, forfatter osv.. Biblioteker har en addresse. 
+> Hvordan fungerer et biblioteksystem? I et bibliotek må man se for seg de forskjellige konseptene og objektene. 
+> - En bok har en tittel, forfatter osv.. 
+> - Biblioteker har en addresse.
+> - En forfatter kan ha flere bøker.
+> - En lånetaker (patron) kan låne flere bøker, har en låneklasse osv. Er en klasse pga vi kan ha flere patron objekter.
+

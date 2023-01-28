@@ -31,6 +31,7 @@ To be announced.
 - https://learnpython.org/
 - [[IKT103 presentasjoner]]
 
+[Enterprise architect - software for å lage UML diagrammer og konseptskisser mm](https://sparxsystems.com/solutions/academic.html)
 
 
 ## Test

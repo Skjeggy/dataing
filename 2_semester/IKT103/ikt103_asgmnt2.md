@@ -87,7 +87,10 @@ pressure in the boiler
 #### Hardware
 Filter, filter holder, receptacle
 Brew button
-cups of coffee (amount - attri)
+cups of coffee (amount - attribute)
+
+
+#### User
 
 
 # 2. UML

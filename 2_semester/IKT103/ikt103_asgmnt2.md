@@ -57,41 +57,36 @@ The HomeBrew Coffee machine makes up to 10 cups of coffee at a time. The user pl
 
 ### nouns
 HomeBrew Coffee machine (system name)
-cups of coffee (amount - attribute)
-user (class)
-filter (class)
-filter holder (class)
-coffee grounds (class)
-receptacle (class)
-cups of water strainer (amount? - attribute)
+cups of coffee 
+user
+filter 
+filter holder 
+coffee grounds 
+receptacle 
+cups of water strainer 
 "Brew" button (class)
 The pressure of the evolving steam
-coffee
-The pot
-extended periods
-warmer plate
+coffee 
+The pot 
+extended periods (attribute?)
+warmer plate (class)
 flow of water
 brewed coffee
 hardware
 
-heating element for the boiler
-heating element for the warmer plate
-sensor for the warmer plate
-A sensor for the boiler
-The brew button.
-brewing cycle
-indicator
-A pressure-relief valve
-pressure in the boiler
+heating element for the boiler (class)
+heating element for the warmer plate (class)
+sensor for the warmer plate (class)
+A sensor for the boiler (class)
+The brew button. (class)
+brewing cycle 
+indicator (attribute of brew button)
+A pressure-relief valve (class)
+pressure in the boiler (attribute?)
 
-#### Hardware
-Filter, filter holder, receptacle
-Brew button
-cups of coffee (amount - attribute)
-
-
-#### User
-
+### adjectives
+warm
+lights up
 
 # 2. UML
 

@@ -60,4 +60,8 @@ skinparam classAttributeIconSize 0
 hide circle
 ```
 
-	#2 
+## 2.2 Discussion
+
+Was inheritance the right choice for this system? Why / why not? What are the advantages and disadvantages of inheritance?
+
+Length: 200 words.

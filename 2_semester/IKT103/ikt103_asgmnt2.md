@@ -59,12 +59,12 @@ The HomeBrew Coffee machine makes up to 10 cups of coffee at a time. The user pl
 HomeBrew Coffee machine (system name)
 cups of coffee (amount - attribute)
 user (class)
-filter ()
-filter holder
-coffee grounds
-receptacle
-cups of water strainer
-"Brew" button
+filter (class)
+filter holder (class)
+coffee grounds (class)
+receptacle (class)
+cups of water strainer (amount? - attribute)
+"Brew" button (class)
 The pressure of the evolving steam
 coffee
 The pot
@@ -83,6 +83,11 @@ brewing cycle
 indicator
 A pressure-relief valve
 pressure in the boiler
+
+#### Hardware
+Filter, filter holder, receptacle
+Brew button
+cups of coffee (amount - attri)
 
 
 # 2. UML

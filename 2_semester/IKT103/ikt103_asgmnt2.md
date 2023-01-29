@@ -35,4 +35,29 @@ suitability
 
 # 2. UML
 
-## 1. Class diagram
+## 2.1 Class diagram
+You are tasked with designing a software system for banks. Sounds familiar? Design the classes using UML. This solution must include inheritance in some way.
+
+The bank system should keep track of the following information:
+
+-   Accounts
+-   Credit cards
+-   Customers
+-   Employees
+
+Use your existing knowledge of banks to model the classes for this system. Generalize common information in base classes and derive from them.
+
+You can use this tool:  
+[https://www.planttext.com/Links to an external site.](https://www.planttext.com/)
+
+With these settings to get the same look as in the lectures:
+
+```
+@startuml  
+!theme plain  
+
+skinparam classAttributeIconSize 0  
+hide circle
+```
+
+	#2 

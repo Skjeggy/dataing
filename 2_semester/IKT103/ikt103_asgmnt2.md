@@ -86,3 +86,8 @@ hide circle
 Was inheritance the right choice for this system? Why / why not? What are the advantages and disadvantages of inheritance?
 
 Length: 200 words.
+
+
+> ![example]
+> Dette er et eksempel
+

@@ -29,20 +29,20 @@ less (disregard - already in price)
 3 years old ? (age of child - already under age)
 
 ### verbs 
-| action     | stative    | comment             |
-| ---------- | ---------- | ------------------- |
-| enters     | ---------- | enterStore()        |
-| buy        |            | buyToy()            | 
-| ---------- | has to be  |                     |
-| ---------- | likes      |                     |
-| cost       | ---------- | getPrice()          |
-| tries      | ---------- | tryToy()            |
-| uses       | ---------- | usesassociatedToy() |
-| helps      | ---------- | helpCustomer()      |
-| ---------- | depends    |                     |
-| ---------- | is         |                     |
-| recommends | ---------- | recommendToy()      |
-| leaves     | ---------- | leaveStore()        |
+| action     | stative    | comment                                    |
+| ---------- | ---------- | ------------------------------------------ |
+| enters     | ---------- | enterStore()                               |
+| buy        | ---------- | buyToy()                                   |
+| ---------- | has to be  | likes is the important verb                |
+| ---------- | likes      | attribute of child/customer?               |
+| cost       | ---------- | getPrice()                                 |
+| tries      | ---------- | tryToy()                                   |
+| uses       | ---------- | relationship - two associated toys.        | 
+| helps      | ---------- | helpCustomer()                             |
+| ---------- | depends    | relationship between game and age of child |
+| ---------- | is         | age of child attribute                     |
+| recommends | ---------- | recommendToy()                             |
+| leaves     | ---------- | leaveStore()                               |
 
 
 ## 1.2

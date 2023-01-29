@@ -16,18 +16,41 @@ Customer (class)
 		Age (attribute)
 Store (class)
 Toy (class)
+	Suitability (attribute)
 	Game (subclass)
 		Board game 
 		Video game 
 			Data glove and head-mounted display
-	
-	Euro - attribute
+	Euro/price - (attribute)
 Assistant (class)
 
 ### adjectives
-less (<than)
-suitability
-3 years old ?
+less (disregard - already in price)
+3 years old ? (age of child - already under age)
+
+### verbs 
+| action | stative   | comment |
+| ------ | --------- | ------- |
+| enters |           |         |
+| ------ | has to be | ------- |
+| likes  |           |         |
+|        |           |         |
+
+enters 
+buy
+has to be
+likes
+must cost
+tries
+uses
+likes
+helps
+depends
+is
+recommends
+buy
+leaves
+
 
 ## 1.2
 The HomeBrew Coffee machine makes up to 10 cups of coffee at a time. The user places a filter in the filter holder, fills the filter with coffee grounds, and slides the filter holder into its receptacle. The user then pours up to 10 cups of water into the water strainer and presses the "Brew" button. The water is heated until boiling. The pressure of the evolving steam forces the water to be sprayed over the coffee grounds, and coffee drips through the filter into the pot. The pot is kept warm for extended periods by a warmer plate, which only turns on if there is coffee in the pot. If the pot is removed from the warmer plate while coffee is sprayed over the grounds, the flow of water is stopped, so that brewed coffee does not spill on the warmer plate. The following hardware needs to be monitored or controlled.

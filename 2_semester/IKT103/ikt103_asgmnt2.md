@@ -55,6 +55,19 @@ The HomeBrew Coffee machine makes up to 10 cups of coffee at a time. The user pl
 -   The brew button. This momentary button starts the brewing cycle. It has an indicator that lights up when the brewing cycle is over and the coffee is ready.
 -   A pressure-relief valve that opens to reduce the pressure in the boiler. The drop in pressure stops the flow of water to the filter. It can be opened or closed.
 
+### nouns
+HomeBrew Coffee machine
+cups of coffee
+user
+filter
+filter holder
+coffee grounds
+receptacle
+cups of water strainer
+"Brew" button
+The pressure of the evolving steam
+
+
 # 2. UML
 
 ## 2.1 Class diagram
@@ -87,7 +100,4 @@ Was inheritance the right choice for this system? Why / why not? What are the ad
 
 Length: 200 words.
 
-
-> ![example]
-> Dette er et eksempel
 

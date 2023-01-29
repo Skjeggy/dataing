@@ -56,10 +56,10 @@ The HomeBrew Coffee machine makes up to 10 cups of coffee at a time. The user pl
 -   A pressure-relief valve that opens to reduce the pressure in the boiler. The drop in pressure stops the flow of water to the filter. It can be opened or closed.
 
 ### nouns
-HomeBrew Coffee machine
-cups of coffee
-user
-filter
+HomeBrew Coffee machine (system name)
+cups of coffee (amount - attribute)
+user (class)
+filter ()
 filter holder
 coffee grounds
 receptacle
@@ -79,6 +79,10 @@ heating element for the warmer plate
 sensor for the warmer plate
 A sensor for the boiler
 The brew button.
+brewing cycle
+indicator
+A pressure-relief valve
+pressure in the boiler
 
 
 # 2. UML

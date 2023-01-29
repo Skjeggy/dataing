@@ -29,20 +29,20 @@ less (disregard - already in price)
 3 years old ? (age of child - already under age)
 
 ### verbs 
-| action     | stative   | comment |
-| ---------- | --------- | ------- |
-| enters     |           |         |
-| buy        |           |         |
-| ------     | has to be | ------- |
-|            | likes     |         |
-| cost       |           |         |
-| tries      |           |         |
-| uses       |           |         |
-| helps      |           |         |
-|            | depends   |         |
-|            | is        |         |
-| recommends |           |         |
-| leaves     |           |         |
+| action     | stative    | comment             |
+| ---------- | ---------- | ------------------- |
+| enters     | ---------- | enterStore()        |
+| buy        |            | buyToy()            | 
+| ---------- | has to be  |                     |
+| ---------- | likes      |                     |
+| cost       | ---------- | getPrice()          |
+| tries      | ---------- | tryToy()            |
+| uses       | ---------- | usesassociatedToy() |
+| helps      | ---------- | helpCustomer()      |
+| ---------- | depends    |                     |
+| ---------- | is         |                     |
+| recommends | ---------- | recommendToy()      |
+| leaves     | ---------- | leaveStore()        |
 
 
 ## 1.2

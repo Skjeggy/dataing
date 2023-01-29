@@ -29,27 +29,20 @@ less (disregard - already in price)
 3 years old ? (age of child - already under age)
 
 ### verbs 
-| action | stative   | comment |
-| ------ | --------- | ------- |
-| enters |           |         |
-| ------ | has to be | ------- |
-| likes  |           |         |
-|        |           |         |
-
-enters 
-buy
-has to be
-likes
-must cost
-tries
-uses
-likes
-helps
-depends
-is
-recommends
-buy
-leaves
+| action     | stative   | comment |
+| ---------- | --------- | ------- |
+| enters     |           |         |
+| buy        |           |         |
+| ------     | has to be | ------- |
+|            | likes     |         |
+| cost       |           |         |
+| tries      |           |         |
+| uses       |           |         |
+| helps      |           |         |
+|            | depends   |         |
+|            | is        |         |
+| recommends |           |         |
+| leaves     |           |         |
 
 
 ## 1.2

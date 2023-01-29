@@ -66,6 +66,19 @@ receptacle
 cups of water strainer
 "Brew" button
 The pressure of the evolving steam
+coffee
+The pot
+extended periods
+warmer plate
+flow of water
+brewed coffee
+hardware
+
+heating element for the boiler
+heating element for the warmer plate
+sensor for the warmer plate
+A sensor for the boiler
+The brew button.
 
 
 # 2. UML

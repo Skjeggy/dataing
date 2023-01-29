@@ -85,8 +85,13 @@ A pressure-relief valve (class)
 pressure in the boiler (attribute?)
 
 ### adjectives
-warm
-lights up
+warm (warmer plate on/off - attribute)
+ready 
+on/off
+opened/closed
+
+### verb
+
 
 # 2. UML
 

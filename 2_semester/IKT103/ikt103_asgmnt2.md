@@ -25,9 +25,7 @@ Toy (class)
 Assistant (class)
 
 ### adjectives
-likes
 less (<than)
-likes
 suitability
 3 years old ?
 
